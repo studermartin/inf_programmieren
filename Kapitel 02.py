@@ -170,9 +170,9 @@ Wie bereits bekannt, darf man repeat auch im Körper einer anderen Schleife verw
 
 
 ''' Hinweise: Was ein gutes Programm ausmacht
-- Zerlegen Sie eine komplexe Problemstellung, wenn es sinnvoll ist, in einfachere Teilafgaben. 
+- Zerlegen Sie eine komplexe Problemstellung, wenn es sinnvoll ist, in einfachere Teilaufgaben. 
 Entwickeln Sie für jede dieser Teilaufgaben einen Befehl. 
-Setzen Sie die Befehle für die Teilaufgaben in einem Programm so dass die ursprünglicm Problernstellung gelöst wird. 
+Setzen Sie die Befehle für die Teilaufgaben in einem Programm so dass die ursprünglichen Problemstellung gelöst wird. 
 - Für ein gut strukturiertes Programm gilt folgende Regel: 
 Sie sehen bei jedem Programmteil sofort, was er macht und wie er es macht. 
 Beispielsweise sehen Sie im Programm oben, wie das «runde Quadrat» gezeichnet wird:
