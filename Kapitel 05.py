@@ -209,7 +209,7 @@ Unterkapitel 5.2 Wie der Computer mit Listen arbeitet
 
 
 ''' Aufgabe 5.16 (Liste kopieren): Bitte lösen '''
-
+''' Hinweis: die gegebene Aufgabe zuerst zeichnen; dann eine Lösung erarbeiten. '''
 
 
 ''' Details
@@ -251,16 +251,6 @@ Umsetzung im Speicher?
 '''
 
 
-''' Performance-Messung des Zugriffs y = x[i] und des Einfügens x.insert(i,y) '''
-
-#x = [3, 4, 1, -2, 6, 7]
-#start = time.time() # time in seconds
-#repeat 100000:
-#    y = x[3]
-#    x.insert(2, 10)
-#end = time.time()
-#print(end - start)  # difference in seconds
-
 
 '''
 ===============================================================================
@@ -282,16 +272,15 @@ Unterkapitel 5.3 Dynamische Datenstrukturen
 
 
 
+''' Aufgabe 5.18 (Einfügen in Liste): Bitte lösen '''
+
+
+
 ''' Beispiel 5.7: Listen-Methode pop '''
 #primzahlen = [2, 3, 5]
 #print(primzahlen)
 #primzahlen.pop()
 #print(primzahlen)
-
-
-
-''' Aufgabe 5.19 (Fibonacci-Zahlen): Bitte lösen '''
-#fibonacci = [1,1]
 
 
 
@@ -329,8 +318,14 @@ Unterkapitel 5.3 Dynamische Datenstrukturen
 #print(quadratzahlen)
 
 
-
 ''' Aufgabe 5.22 (Liste der Quadratzahlen kleiner 1000): Bitte lösen '''
+
+
+
+''' Aufgabe 5.19 (Fibonacci-Zahlen): Bitte lösen '''
+#fibonacci = [1,1]
+
+
 
 ''' Aufgabe 5.25 (echte Teiler): Bitte lösen '''
 
