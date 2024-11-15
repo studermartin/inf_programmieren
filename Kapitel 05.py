@@ -338,7 +338,7 @@ Es können jederzeit neue Werte hinzugefügt werden.
 Die Klammern können auch leer sein, womit eine leere Liste erzeugt wird.
 Danach fügst du mit append() weitere Zahlenwert hinzu.
 
-- Liste können neben Zahlen auch andere Datentypen wie beipsielsweise Texte enthalten.
+- Liste können neben Zahlen auch andere Datentypen wie beispielsweise Texte enthalten.
 - Eine Zahl oder ein Text darf in der Liste mehrfach vorkommen.
 '''
 
@@ -357,7 +357,8 @@ Unterkapitel 5.4 Die Elemente einer Liste durchlaufen
 zahlen = [ -3, 1, 7 ]
 i = 0
 repeat len(zahlen):
-    print(zahlen[i])
+    zahl = zahlen[i]
+    print(zahl)
     i += 1
 
 - Weil man sehr oft die Elemente einer Liste durchläuft gibt es dafür eine eigene Art von Schleife.
@@ -460,7 +461,7 @@ Beispielsweise alle geraden Zahlen in eine Liste, alle ungeraden in eine andere 
 ''' Aufgabe 5.33: Laufteilnehmende unterteilen (Bitte lösen) '''
 
 
-''' Aufgabe 5.34: Index der geraden Zahlen (Bitte lösen) '''
+''' Aufgabe 5.34: Indexe der geraden Zahlen (Bitte lösen) '''
 
 
 ''' ---- Die Werte einer Liste auf einen Wert reduzieren --- '''
