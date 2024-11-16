@@ -42,7 +42,7 @@ Ablauf des Programms (mit Debugger)
 '''
 
 ''' Konzepte und Begriffe
-Arbeiten mit dem Speiche:
+Arbeiten mit dem Speicher:
 - Variablen ermöglichen das Arbeiten mit dem Speicher des Computers. 
 - Parameter sind eine Form von Variablen. Die Werte von Parametern werden beim Aufruf in Klammern gesetzt.
 
@@ -85,7 +85,7 @@ Beispiel: print(x4)
 - Keine praktikable Lösung. (Wir haben auch nicht einen Befehl forward100, forward200 usw.)
 
 Ansatz: 
-1. Die Anzahl Schritte nach vorne, die Seitenlänge, wollen wir frei wählbar machen.
+1. Die Seitenlänge wollen wir frei wählbar machen.
 2. Damit der Wert zur Verfügung steht, definieren wir den Wert als Parameter.
 '''
 
