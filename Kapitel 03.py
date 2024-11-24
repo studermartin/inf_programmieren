@@ -161,8 +161,6 @@ Das Programm soll die Höhe und Breite der Stufen berechnen.'''
 
 ''' Texte als Parameter '''
 
-''' Beispiel 3.4: Treppe zeichnen '''
-
 ''' 
 - Der Befehl farb_quadrat hat zwei Parameter: seite und farbe.
 - Neu: Die Werte von Parametern können nicht nur Zahlen, sondern auch Texte (Datentyp string) sein.
@@ -180,6 +178,9 @@ Das Programm soll die Höhe und Breite der Stufen berechnen.'''
 #farb_quadrat(100, "red")
 #left(45)
 #farb_quadrat(100, "gold")
+
+
+''' Aufgabe 3.3: Farbige Dreiecke (Bitte lösen) '''
 
 
 ''' Aufgabe 3.4: Farbige Vielecke (Bitte lösen) '''
