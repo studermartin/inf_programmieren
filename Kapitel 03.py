@@ -262,7 +262,7 @@ Kapitel 3.3 Übertragung von Variablenwerten zwischen Befehlen
 ===============================================================================
 '''
 
-''' Beispiel 3.7: Vieleck '''
+''' Beispiel 3.7: Kreis '''
 #from gturtle import *
 #
 #def vieleck(anzahl_ecken, seite):
