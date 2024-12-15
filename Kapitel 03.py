@@ -453,7 +453,7 @@ Den Wert erhöhen:
 #muschel(5, 500)
 
 
-''' Beispiel 3.11 '''
+''' Beispiel 3.11 (Quadratzahlen ausgeben) '''
 
 ''' 
 - Variablen nicht nur dazu verwendet werden, um Figuren unterschiedliche gross zu zeichnen.
@@ -576,7 +576,7 @@ Neu:
 #
 #rechne(3,11)
 
-''' Tabellen mit Varaiblen zeichnen
+''' Tabellen mit Variablen zeichnen
 '''
 
 ''' Neue Konzepte und Begriffe
