@@ -502,9 +502,9 @@ Beispielsweise alle geraden Zahlen in eine Liste, alle ungeraden in eine andere 
 
 ''' Aufgabe 5.40 '''
 
-satz = "Der Himmel ist blau"
-liste_von_woertern = satz.split()
-print(liste_von_woertern)
+# satz = "Der Himmel ist blau"
+# liste_von_woertern = satz.split()
+# print(liste_von_woertern)
 
 
 ''' Was wir gelernt haben
