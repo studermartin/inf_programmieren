@@ -68,32 +68,119 @@ Funktionen mit mehreren Parametern
 ''' 
 
 ''' Beispiel 7.2: Fläche eines Rechtecks '''
-def flaeche_rechteck(a, b):
-   return a*b
+# def flaeche_rechteck(a, b):
+#    return a*b
 
 ''' Verwendung der Funktion '''
 
 # Fläche berechnen und speichern
-flaeche = flaeche_rechteck(3, 20)
+# flaeche = flaeche_rechteck(3, 20)
 
 # Fläche berechnen und ausgeben
-print(flaeche_rechteck(3, 20))
+# print(flaeche_rechteck(3, 20))
 
 # Fläche berechnen und für einen Vergleich nutzen
-if flaeche_rechteck(3, 20) > 100:
-   print("Fläche > 100")
+# if flaeche_rechteck(3, 20) > 100:
+#    print("Fläche > 100")
 
 # Fläche berechnen und ...?recht
-flaeche_rechteck(3, 20)
+# flaeche_rechteck(3, 20)
 
 
 
 ''' Aufgabe 7.2: Umfang eines Rechtecks (bitte lösen) '''
 
 
+''' Neue Konzepte und Begriffe
+Eine Funktion funk wird wie folgt definiert:
+  def funk(parameter1, paramenter2, paramenter3, ...)
+    # Körper der Funktion
+    return <Ausdruck>
+
+Der Körper einer Funktion kann - wie ein Befehl - aus mehreren Zeilen bestehen.
+Ein Aufruf
+  y = funk(a1, a2, a3, ...)
+liefert der Befehl return im Funktionskörper den Wert der Funktion zurück.
+'''
 
 
------
+''' Aufgabe 7.3: Index von (bitte lösen) '''
+
+
+''' Aufgabe 7.4: Ist sortiert (bitte lösen) '''
+
+
+''' Aufgabe 7.5: Binäre Suche (bitte lösen) '''
+
+
+''' Was wir gelernt haben
+Funktionen sind eine Verallgemeinerung von Befehlen.
+Funktionen liefern zusätzlich - mit der return-Anweisung - einen Wert zurück.
+'''
+
+
+'''
+===============================================================================
+Unterkapitel 7.2 Funktionen aufrufen
+===============================================================================
+''' 
+
+'''
+-------------------------------------------------------------------------------
+Einfacher Funktionsaufruf
+-------------------------------------------------------------------------------
+''' 
+
+''' Beispiel 7.3: Einfacher Funktionsaufruf '''
+
+# def f(x):
+#    return 2*x+3
+
+# print ( f(19) )
+
+''' Ausdrucksbaum
+    ^ 41
+    |
+  f(x)
+    ^ 19
+    | 
+  19
+'''
+
+
+''' Aufgabe 7.6: Verdoppeln zeichnen (bitte lösen) '''
+
+
+'''
+-------------------------------------------------------------------------------
+Funktionsaufruf als Teil eines grösseren Ausdrucks
+-------------------------------------------------------------------------------
+'''
+
+''' Beispiel 7.4: Transformation von Funktion '''
+
+def f_transformiert(x, skalierung, verschiebung):
+   return verschiebung + f(x) * skalierung
+
+
+''' Ausdrucksbaum
+            ^ 
+            |
+            +
+        ^       ^
+      /           \
+verschiebung      *
+                ^   ^
+              /       \
+            f(x)  skalierung
+              ^   
+              |
+              x
+'''
+
+
+
+# ----- =====- ---- - 
 
 
 
