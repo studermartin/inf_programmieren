@@ -158,24 +158,78 @@ Funktionsaufruf als Teil eines grösseren Ausdrucks
 '''
 
 ''' Beispiel 7.4: Transformation von Funktion '''
+# def f(x):
+#    return 2*x+3
 
-def f_transformiert(x, skalierung, verschiebung):
-   return verschiebung + f(x) * skalierung
+# def f_transformiert(x, skalierung, verschiebung):
+#    return verschiebung + f(x) * skalierung
 
 
-''' Ausdrucksbaum
+''' Ausdrucksbaum für den Ausdruck "verschiebung + f(x) * skalierung" in der return-Anweisung
             ^ 
             |
             +
         ^       ^
-      /           \
+      /           \\
 verschiebung      *
                 ^   ^
-              /       \
+              /       \\
             f(x)  skalierung
               ^   
               |
               x
+'''
+
+''' Aufgabe 7.7: Ausdrucksbaum f_transformiert (Diskussion) '''
+# print(f_transformiert(10,2,100))
+
+
+
+'''
+-------------------------------------------------------------------------------
+Funktionsaufruf als Argument eines Funktionsaufrufs
+-------------------------------------------------------------------------------
+'''
+
+''' Beispiel 7.5:  '''
+''' 
+Paramenterwerte einer Funktion sind auch Ausdrücke, können also auch Funktionsaufrufe nutzen.
+'''
+
+def f(x):
+   return 2*x+3
+
+print(16 - f(2+19)/3)
+
+''' Ausdrucksbaum für den Parameter der print-Funktion 
+
+                ^ 
+                | 1
+                -
+            ^       ^
+      16 /           \\ 15
+        16            /
+                    ^   ^
+               45 /       \\ 3
+                f(x)      3
+                  ^ 
+                  | 21
+                  +
+                ^   ^
+             2 /      \\ 19
+              2       19
+'''
+
+
+'''
+-------------------------------------------------------------------------------
+Funktionen mit mehreren Argumenten
+-------------------------------------------------------------------------------
+'''
+
+''' Beispiel 7.6:  '''
+''' 
+Ausdrucksbaum für den Ausdruck rechteck_flaeche(3,20) > 100 au Beispiel 7.2
 '''
 
 
