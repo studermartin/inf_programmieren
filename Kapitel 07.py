@@ -196,10 +196,10 @@ Funktionsaufruf als Argument eines Funktionsaufrufs
 Paramenterwerte einer Funktion sind auch Ausdrücke, können also auch Funktionsaufrufe nutzen.
 '''
 
-def f(x):
-   return 2*x+3
+# def f(x):
+#    return 2*x+3
 
-print(16 - f(2+19)/3)
+# print(16 - f(2+19)/3)
 
 ''' Ausdrucksbaum für den Parameter der print-Funktion 
 
@@ -229,8 +229,214 @@ Funktionen mit mehreren Argumenten
 
 ''' Beispiel 7.6:  '''
 ''' 
-Ausdrucksbaum für den Ausdruck rechteck_flaeche(3,20) > 100 au Beispiel 7.2
+Ausdrucksbaum für den Ausdruck rechteck_flaeche(3,20) > 100 aus Beispiel 7.2
+                ^ 
+                | false
+                >
+            ^       ^
+      60  /           \\ 100
+rechteck_flaeche(a,b)   100   
+       ^   ^
+    3 /      \\ 20
+      3       20
 '''
+
+
+
+''' Aufgabe 7.8: Funktion ohne Parameter (Bitte lesen) '''
+
+
+''' Aufgabe 7.9: PI-Berechnung (Bitte lösen) '''
+
+
+
+''' Was wir gelernt haben
+Funktionen können in Ausdrücken verwendet werden.
+Die Funktionen werden aufgerufen, wenn der Ausdruck ausgewertet wird.
+'''
+
+
+'''
+===============================================================================
+Unterkapitel 7.3 Eingebaute Funktionen verwenden
+===============================================================================
+''' 
+
+
+
+''' Neue Konzepte und Begriffe
+Bereits geschriebene Funktionen kann man in Modulen zusammenfassen und wiederverwenden.
+Wir kennen bereits ein Modul: gturtle
+Um Funktionen zu nutzen braucht es folgende Anweisungen:
+  from module import *
+Importiert alle Definitionen aus einem Modul.
+  from module import <Funktion>
+Importiert nur eine Funktion.
+'''
+
+
+'''
+-------------------------------------------------------------------------------
+Eine Sinus-Kurve zeichnen
+-------------------------------------------------------------------------------
+''' 
+
+# from math import *
+
+# print("sin(0):", sin(0))
+# print("cos(0):", cos(0))
+# print("tan(0):", tan(0))
+
+
+''' Beispiel 7.7: sinus-Kurve zeichnen '''
+'''
+Variante 1: mit gturtle
+Variante 2: mit gpanel
+- Punkte, Striche und Kreise kann man an vordefinierten Koordinaten zeichnen
+- Koordinatensystem (ungleich Pixel)
+
+Die Funktionen zur Zeichenfläche erstellen sind:
+- makeGPanel:
+- title
+- drawGrid
+
+'''
+
+
+# from math import * 
+# from gpanel import * 
+
+# # Zeichenfläche erstellen
+# minX = -pi
+# maxX = pi
+# minY = -1
+# maxY = 1
+# horizTicks = 4
+# vertTicks = 2
+
+# makeGPanel(minX, maxX, minY, maxY)
+# title("sin (x)")
+# drawGrid(minX, maxX, minY, maxY, horizTicks, vertTicks, "grey")
+
+# # Sinus zeichnen
+# segmente = 8
+# x = minX 
+# altX = x
+# setColor("red")
+# lineWidth(2)
+
+# repeat segmente + 1:
+#     y = sin(x) 
+#     if altX != x: 
+#         line(altX, altY, x, y)
+#     altX = x
+#     altY = y
+#     x = x + (maxX -minX) / segmente
+
+
+
+''' Aufgabe 7.10 Verdoppelung der Anzahl Segmente (Diskussion) '''
+'''
+Frage:
+- Verdopple die Anzahl der Segmente (ändere den Wert, der der Variablen segmente zugewiesen wird). 
+Sieht die Kurve damit eher wie eine Sinus-Kurve aus? Warum ist das so?
+'''
+
+''' Aufgabe 7.11 Halbierung der Anzahl Segmente (Diskussion) '''
+'''
+- Halbiere die Anzahl der Segmente (ändere den Wert, der der Variablen segmente zugewiesen wird). 
+Wie sieht die Kurve nun aus?
+
+'''
+''' Aufgabe 7.12 Programm (Gruppendiskussion) '''
+'''
+Fragen:
+- Wenn wir segmente Segmente zeichnen wollen, warum wird die repeat-Schleife (segmente + I)-mal ausgeführt?
+- Was ist der Zweck von altX und altY? 
+- Und warum benötigen wir die if-Anweisung?
+- Das Programm in Beispiel 7.7 zeichnet eine Kurve der Funktion sin(x) Sie können sin(x) durch beliebige andere Funktionen ersetzen. Versuchen Sie es mit cos(x) , tan(x) oder auch sin(x*x).
+'''
+
+
+'''
+-------------------------------------------------------------------------------
+Die Turtle überwachen
+-------------------------------------------------------------------------------
+''' 
+
+''' Weglassen '''
+
+
+'''
+-------------------------------------------------------------------------------
+Quadratische Gleichungen
+-------------------------------------------------------------------------------
+''' 
+
+''' Beispiel 7.9 '''
+
+''' 
+Wir möchten eine Funktion schreiben, die die Lösung einer quadratischen Gleichung zurückgibt:
+  ax^2+bx+c=0
+Wir kennen die abc-Formel:
+  D = b^2-4ac
+  x_1/2 = (-b+-sqrt(D))/2a
+'''
+
+# def loese_quadratische_gleichung(a, b, c):
+  # Diskriminante D gemäss b^2-4ac berechnen
+
+  # Falls D>0:
+  #   Zwei Lösungen: x_1/2 = (-b+-sqrt(D))/2a
+
+  # Falls D==0:
+  #   Eine Lösung: x=-b/2a
+
+  # Falls D<0:
+  #   Keine Lösung
+  
+# def loese_quadratische_gleichung(a, b, c):
+#   d = b*b-4*a*c
+#   if d>0:
+#     x1 = (-b+sqrt(d))/(2*a)
+#     x2 = (-b-sqrt(d))/(2*a)
+#   elif d==0:
+#     x = -b/(2*a)
+#   else:
+#     pass
+
+# def loese_quadratische_gleichung(a, b, c):
+#   d = b*b-4*a*c
+#   if d>0:
+#     x1 = (-b+sqrt(d))/(2*a)
+#     x2 = (-b-sqrt(d))/(2*a)
+#     return [x1, x2]
+#   elif d==0:
+#     x = -b/(2*a)
+#     return [x]
+#   else:
+#     return []
+
+# print(loese_quadratische_gleichung(1,0,0))
+# print(loese_quadratische_gleichung(2,5,3))
+
+
+''' Aufgabe 7.13 Polynom berechnen (Bitte lösen) '''
+
+
+
+''' Was wir gelernt haben
+Python bietet viele eingebaute Funktionen, die sich einfach verwenden lassen.
+Diese Funktionen befinden sich in Modulen. 
+Um die in den Modulen definierten Funktionen zu verwenden, muss die import-Anweisung verwendet werden.
+'''
+
+
+'''
+===============================================================================
+Unterkapitel 7.4 Zusammenfassung
+===============================================================================
+''' 
 
 
 
