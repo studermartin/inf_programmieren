@@ -315,9 +315,9 @@ Dies kann jedoch dazu führen, dass man beim Vergleich von Zahlen falsche logisc
 
 ''' Mit den relationalen Operatoren kann man auch Texte oder logische Ausdrücke vergleichen
 R2: Ein Text-Ausdruck, gefolgt von einem relationalen Vergleichs-Operator (==, !=, <, >), gefolgt von einem Text-Ausdruck ergibt einen logische Ausdruck.
-- Beispiel: name = "Jim"
+- Beispiel: name == "Jim"
 R3: Ein logischer Ausdruck, gefolgt von einem der relationalen Vergleichs-Operatoren == oder  !=, gefolgt von einem logischen Ausdruck ergibt einen logische Ausdruck.
-- Beispiel: darf_auto_fahren = True
+- Beispiel: darf_auto_fahren == True
 '''
 
 
