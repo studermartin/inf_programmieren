@@ -588,7 +588,7 @@ betrachtet der Computer diese Variable automatisch als eine Variable des Program
 '''
 
 
-''' Aufgabe 3.35: Rechne 2x^2-3x+1 (Bitte lösen) '''
+''' Aufgabe 3.35: Rechne 2x^2-3x+1 (Diskussion) '''
 
 
 
@@ -596,8 +596,16 @@ betrachtet der Computer diese Variable automatisch als eine Variable des Program
 Summe aller natürlichen Zahlen von 1 bis n.
 
 Wie würdest dieses Aufgabe von Hand lösen?
-x       1  2  3  4  5  6  ...
-summe   1  3  6 10 15 21  ...
+x           1  2  3  4  5  6  ...
+summe   0   1  3  6 10 15 21  ...
+
+Pseudocode:
+x startet bei 1
+summe hat den Wert 0
+
+x läuft von 1 bis 100:
+    summe jeweils um x erhöhen
+summe ausgeben
 '''
 
 #summe = 0
@@ -622,10 +630,10 @@ summe   1  3  6 10 15 21  ...
 - Welchen der zwei Befehle rechne() oder addition() würdest du bevorzugen?
 '''
 
-''' Aufgabe 3.37: erste 10 Kubikzahlen (Bitte lösen) '''
+''' Aufgabe 3.37: Summe der ersten 10 Kubikzahlen (Bitte lösen) '''
 
 
-''' Aufgabe 3.38: Summe der Reiskörner auf dem Schachbrett '''
+''' Aufgabe 3.38: Summe der Reiskörner auf dem Schachbrett (Bitte lösen)'''
 
 
 
