@@ -74,6 +74,33 @@ Das sich 1 + 2 + 3 über die Regeln bilden lässt, ist 1 + 2 + 3 ein gültiger a
 Der Ausdruck *3 ist kein gültiger arithmetischer Ausdruck.
 '''
 
+''' EBNF als Zusatz einführen? 
+EBNF würde in etwa wie folgt aussehen:
+  	ArithmetischerAusdruck
+				# A1: Zahl
+		= Zahl
+				# A2: Variable
+		|  Variable                 
+				#A3: Vorzeichen
+		|  ( "+" | "-" ) ArithmetischerAusdruck  
+				# A4: arithmetische Operatoren
+		|  ArithmetischerAusdruck ( "+" | "-" | "*" | "/" | "%" ) ArithmetischerAusdruck
+				# A5: Klammern
+		|  (ArithmetischerAusdruck)
+
+Das bringt nicht so viel Zusatz an Verständlichkeit. 
+ie Prüfung, ob ein Ausdruck korrekt ist, kann induktiv erfolgen. 
+Beispiel: Ist 1+2+3 ein gültiger arithmetischer Ausdruck?
+Gültige arithmetische Ausdrucke sind:
+  1: A1
+  2: A1
+  3: A1
+  1+2: A4
+  1+2 + 3: A4
+       
+
+'''
+
 
 ''' Aufgabe 6.1: Gültige Ausdrücke (Bitte lösen) '''
 
