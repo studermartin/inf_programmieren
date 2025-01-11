@@ -159,7 +159,10 @@ Das Programm soll die Höhe und Breite der Stufen berechnen.'''
 ''' Aufgabe 3.2: Regelmässige Vielecke (Bitte lösen) '''
 
 
-''' Texte als Parameter '''
+''' ---- Parameter für Farben --- '''
+
+
+''' Beispiel 3.5: Quadrat mit Farbe als Parameter '''
 
 ''' 
 - Der Befehl farb_quadrat hat zwei Parameter: seite und farbe.
