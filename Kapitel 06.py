@@ -97,9 +97,26 @@ Gültige arithmetische Ausdrucke sind:
   3: A1
   1+2: A4
   1+2 + 3: A4
-       
-
 '''
+
+''' Baumdarstellung für die Ableitung
+Beispiel: (2+x)
+
+          (2+x)
+            | A5
+           2+x
+          / A4 \\
+          2     x
+          A1    A2
+
+Von oben her mit (2+x) starten (Top-Down)
+Gemäss A5 ist (2+x) gültig, wenn 2+x gültig ist.
+Gemäss A4 ...
+
+Von unten her mit 2 und x starten (Botton-Up)
+Gemäss A1 ist 2 gültig und gemäss A2 ist x gültig.
+Gemäss A4 ...
+'''       
 
 
 ''' Aufgabe 6.1: Gültige Ausdrücke (Bitte lösen) '''
