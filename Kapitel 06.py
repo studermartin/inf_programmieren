@@ -309,7 +309,7 @@ lässt sich mit keiner bekannten Regel erstellt. Es fehlen die Operatoren >= und
 Wir sprechen von relationalen Operatoren, Operatoren die zwei Werte miteinander vergleichen und als Ergebnis einen logischen Wert True oder False zurückgeben.
 
 Mit relationalen Operatoren kann man also aus arithmetischen Ausdrücken einen logischen Ausdruck bauen:
-R1: Ein arithmetischer Ausdruck, gefolgt von einem relationen Operator (<, <=, >, >=, ==, !=) gefolgt von einem arithmetischen Operator ergibt einen logischen Operator.
+R1: Ein arithmetischer Ausdruck, gefolgt von einem relationalen Operator (<, <=, >, >=, ==, !=) gefolgt von einem arithmetischen Operator ergibt einen logischen Operator.
 - Beispiel: alter < 21
 
 Hinweis:
@@ -326,6 +326,15 @@ Für Zahlen mit vielen Nachkommastellen arbeitet der Computer mit gerundeten Wer
 Dadurch erhält man als Resultat oft nur Näherungswerte. 
 Dies kann jedoch dazu führen, dass man beim Vergleich von Zahlen falsche logische Werte erhält
 '''
+
+#a = 0.3
+#print(a == a)
+#
+#b = 0.1 + 0.1 + 0.1
+#print(b == b)
+#
+#print(a == b)
+
 
 ''' Aufgabe 6.11: äquivalente Ausdrücke mit relationalen Operatoren (Bitte lösen) '''
 
@@ -399,13 +408,13 @@ Mehrere Operationen
 
 ''' Beispiel 6.5 '''
 ''' Ausdruck 5 + 2 -3 visualisieren
-- Da der Ausdruck von links nach rechts ausgewerte wird, wird zuerst 5+2 gerechnet.
+- Da der Ausdruck von links nach rechts ausgewertet wird, wird zuerst 5+2 gerechnet.
 '''
 
 ''' Aufgabe 6.14 (Diskussion) '''
 
 
-''' Aufgabe 6.15: Bäume '''
+''' Aufgabe 6.15: Bäume (Bitte lösen)'''
 
 
 '''
