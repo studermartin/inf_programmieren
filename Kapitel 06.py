@@ -390,7 +390,7 @@ Eine Kante als Linie verbindet zwei Knoten.
 
 Einer der Knoten des Baumes wird als Wurzel gewählt.
 Die Wurzel wird ganz oben gezeichnet.
-Darunter wächst der Baum (visualisert durch Kanten) nach unten.
+Darunter wächst der Baum (visualisiert durch Kanten) nach unten.
 
 Ganz zuunterst sind die Knoten, die man Blätter nennt.
 Aus den Blättern gehen keine Kanten mehr nach unten.
