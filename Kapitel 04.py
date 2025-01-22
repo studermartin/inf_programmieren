@@ -38,10 +38,10 @@ Unterkapitel 4.1 Verzweigungen mit if-Anweisungen
 
 
 
-''' Aufgabe 4.1: Lösen Sie die Aufgabe '''
+''' Aufgabe 4.1: (Diskussion)'''
 
 
-''' Aufgabe 4.2: Lösen Sie die Aufgabe '''
+''' Aufgabe 4.2: (Diskussion) '''
 
 
 
@@ -85,6 +85,9 @@ Python 2 Language Reference
 #zeichne_vieleck(6, 70)
 
 
+''' Visualisierung mittels Flussdiagrammen '''
+
+
 ''' Neue Konzepte und Begriffe
 - if <Bedingung>:
   Nach if geben Sie in der Bedingung an, was der Computer überprüfen soll, ob es wahr(True) oder falsch(False) ist.
@@ -98,6 +101,11 @@ Python 2 Language Reference
 - Boolean operations: https://docs.python.org/2/reference/expressions.html#booleans
 '''
 
+
+''' Aufgabe 4.3: Quadrat (Bitte lösen)'''
+
+
+''' Aufgabe 4.4: if-Bedingung ohne Variable (lassen wir weg) '''
 
 
 ''' Beispiel 4.3: Lisa und Unbekannte '''
@@ -127,7 +135,6 @@ Python 2 Language Reference
 ''' Aufgabe 4.5: Diskussion '''
 
 
-
 ''' Neue Konzepte und Begriffe
 - Die strukturierte Anweisung if-else ermöglicht uns, ein Programm in zwei Zweige zu unterteilen und danach wieder zusammenzuführen.
   In einem Zweig liegt der Programmteil, der ausgeführt wird, wenn die Bedingung erfüllt (True) ist.
@@ -135,12 +142,11 @@ Python 2 Language Reference
 '''
 
 
-
-''' Aufgabe 4.7: Bitte lösen '''
-
+''' Aufgabe 4.7: Gleiche Wirkung (Bitte lösen) '''
 
 
-''' Aufgabe 4.8: Bitte lösen '''
+
+''' Aufgabe 4.8: Sicheres Vieleck (Bitte lösen) '''
 
 
 
@@ -200,6 +206,12 @@ Python 2 Language Reference
 ''' Visualisierung mittels Flussdiagrammen '''
 
 
+''' Aufgabe 4.9: (Diskussion) '''
+
+
+''' Aufgabe 4.9: (Weglassen) '''
+
+
 
 ''' Neue Konzepte und Begriffe
 - Mit der strukturierten Anweisung if-elif-else kann man ein Programm in beliebig viele Wege verzweigen.
@@ -212,9 +224,13 @@ Python 2 Language Reference
 '''
 
 
+''' Aufgabe 4.14: Quiz (Bitte lösen) '''
 
-''' Aufgabe 4.12: Lösung von quadratischen Gleichungen (Bitte lösen) '''
 
+''' Aufgabe 4.13: Lineare Gleichungen (Bitte lösen) '''
+
+
+''' Aufgabe 4.12: Lösung von quadratischen Gleichungen (Weglassen) '''
 
 
 '''
@@ -224,12 +240,16 @@ Unterkapitel 4.2 Logische Operatoren
 ''' 
 
 
-
 ''' Bitte lesen: Seite 76, Logische Operatoren '''
-''' Aufgabe 4.15: (Bitte lösen) '''
+
+
+''' Aufgabe 4.15: (Diskussion) '''
+
 ''' Aufgabe 4.16: (Bitte lösen) '''
+
 ''' Aufgabe 4.17: (Bitte lösen) '''
-''' Aufgabe 4.18: (Bitte lösen) '''
+
+''' Aufgabe 4.18: (Diskussion) '''
 
 
 
@@ -251,6 +271,10 @@ Unterkapitel 4.2 Logische Operatoren
 '''
 
 
+''' Aufgabe 4.19: Nichtteiler von 24 (Bitte lösen) '''
+
+
+
 '''
 -------------------------------------------------------------------------------
 Thema: Wahrheitstabellen
@@ -258,10 +282,13 @@ Thema: Wahrheitstabellen
 '''
 
 ''' Wahrheitstabellen für die Operatoren and und or zeichnen '''
+''' (siehe Buch) '''
 
 
+''' Aufgabe 4.20: (Bitte lösen, keine Abgabe im Teams) '''
 
-''' Aufgabe 4.20: (Bitte lösen) '''
+
+''' Aufgabe 4.21: (Bitte lösen, keine Abgabe im Teams) '''
 
 
 
@@ -290,9 +317,16 @@ Thema: Bedingungen verknüpfen
 '''
 
 
-''' Aufgabe 4.22: (Bitte lösen) '''
-''' Aufgabe 4.25: (Bitte lösen) '''
+''' Aufgabe 4.22: (Diskussion) '''
 
+
+''' Aufgabe 4.24: Teiler 24 und 54 (Bitte lösen) '''
+
+
+''' Aufgabe 4.25: Teiler von 7 aber nicht 3 (Bitte lösen) '''
+
+
+''' Aufgabe 4.27: Begrüssung (Bitte lösen) '''
 
 
 '''
@@ -300,6 +334,12 @@ Thema: Bedingungen verknüpfen
 Unterkapitel 4.3 Schleifen abbrechen
 ===============================================================================
 ''' 
+
+''' 
+Mit repeat: ohne Angabe einer Anzahl kann eine unendliche Wiederholung realisiert werden.
+Mit einer if- und break-Anweisung in Kombination im Körper der Schleife kann diese abgebrochen wird,
+sobald eine gegebene Aufgabe erledigt ist.
+'''
 
 
 ''' Beispiel 4.7: Spirale mit break '''
@@ -318,9 +358,13 @@ Unterkapitel 4.3 Schleifen abbrechen
 #spirale(20, 5, 200)
 
 
+''' Flussdiagramm zeichnen '''
+
 
 ''' Aufgabe 4.28: (Diskussion) '''
 
+
+''' Weglassen: Aufgabe 4.29 '''
 
 
 ''' Neue Konzepte und Begriffe
@@ -331,7 +375,6 @@ Unterkapitel 4.3 Schleifen abbrechen
 
 
 ''' Aufgabe 4.30: (Diskussion) '''
-
 
 
 
