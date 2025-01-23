@@ -412,7 +412,7 @@ Mehrere Operationen
 '''
 
 ''' Aufgabe 6.14 (Diskussion) '''
-
+''' Lösung: Ja, z. B. 5+2-3 und (5+2)-3 '''
 
 ''' Aufgabe 6.15: Bäume (Bitte lösen)'''
 
@@ -429,7 +429,7 @@ Unäre Operatoren
 '''
 
 
-''' Aufgabe 6.17: Zum Baum passender Ausdruck (Bitte lösen) '''
+''' Aufgabe 6.17: Zum Baum passender Ausdruck (Bitte im Teams lösen) '''
 
 
 '''
@@ -454,7 +454,7 @@ Punkt vor Strich
 - Punkt vor Strich vor Vergleich.
 '''
 
-''' Aufgabe 6.18: Zerlegung und Auswertung des Ausdrucks x + 3 > x - 3 (Bitte lösen) '''
+''' Aufgabe 6.18: Zerlegung und Auswertung des Ausdrucks x + 3 > x - 3 (Bitte Lösung ins Teams hochladnen) '''
 
 
 '''
@@ -469,9 +469,14 @@ Ausdrücke mit logischen Operatoren
 '''
 
 
-''' Aufgabe 6.19: Zerlegung und Auswertung des Ausdrucks x<=maxi and x>=mini (Bitte lösen) '''
+''' Aufgabe 6.19: Zerlegung und Auswertung des Ausdrucks x<=maxi and x>=mini (Bitte ins Teams hochladen) '''
 
-''' Aufgabe 6.21: Zerlegung und Auswertung es_regnet==True (Bitte lösen) '''
+
+''' Aufgabe 6.20: Zerlegung und Auswertung des Ausdrucks x<=maxi and x>=mini (Lassen wir weg) '''
+
+
+''' Aufgabe 6.21: Zerlegung und Auswertung es_regnet==True (Bitte ins Teams lösen) '''
+
 
 ''' Was wir gelernt haben
 Wir haben gelernt, Ausdrücke mit verschiedenen Operatoren 
@@ -481,3 +486,14 @@ und mit Variablen (z. B. spalten, index) in Bäume zu zerlegen und auszuwerten.
 
 Wir haben auch gelernt, das wir für bestimmte Aufgaben verschiedene äquivalente Ausdrücke verwenden kann.
 '''
+
+
+'''
+===============================================================================
+Unterkapitel Selbsttest
+===============================================================================
+''' 
+
+''' Konzepte und Befehle (Bitte im Teams lösen) '''
+
+''' Aufgaben (Bitte im Teams lösen) '''
