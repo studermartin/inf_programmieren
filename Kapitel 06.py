@@ -414,6 +414,7 @@ Mehrere Operationen
 ''' Aufgabe 6.14 (Diskussion) '''
 ''' Lösung: Ja, z. B. 5+2-3 und (5+2)-3 '''
 
+
 ''' Aufgabe 6.15: Bäume (Bitte lösen)'''
 
 
@@ -453,6 +454,7 @@ Punkt vor Strich
 ''' Ausdruck x + 2 > 15 visualisieren
 - Punkt vor Strich vor Vergleich.
 '''
+
 
 ''' Aufgabe 6.18: Zerlegung und Auswertung des Ausdrucks x + 3 > x - 3 (Bitte Lösung ins Teams hochladnen) '''
 
