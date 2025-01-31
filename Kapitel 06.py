@@ -397,6 +397,8 @@ Aus den Blättern gehen keine Kanten mehr nach unten.
 
 Alle Knoten - ausser den Blättern - werden innere Knoten genannt.
 Wenn aus einem Knoten mehrere Kanten nach unten führen, sprechen wir von einer Verzweigung im Baum.
+
+Unsere Operationen sind binäre Operationen. Also hat ein Knoten maximal zwei Kinder.
 '''
 
 
