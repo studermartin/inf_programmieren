@@ -223,6 +223,8 @@ Python 2 Language Reference
   Für die Verständlichkeit ist es von Vorteil, in if-elif-else nur Bedingungen zu stellen, die sich gegenseitig ausschliessen.
 '''
 
+''' Aufgabe 4.11: Bilder abhängig von Eingabe zeichnen (Bitte lösen) '''
+
 
 ''' Aufgabe 4.14: Quiz (Bitte lösen) '''
 
@@ -245,9 +247,9 @@ Unterkapitel 4.2 Logische Operatoren
 
 ''' Aufgabe 4.15: (Diskussion) '''
 
-''' Aufgabe 4.16: (Bitte lösen) '''
+''' Aufgabe 4.16: (Bitte im Teams lösen) '''
 
-''' Aufgabe 4.17: (Bitte lösen) '''
+''' Aufgabe 4.17: (Bitte im Teams lösen) '''
 
 ''' Aufgabe 4.18: (Diskussion) '''
 
