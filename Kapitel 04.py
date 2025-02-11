@@ -241,8 +241,33 @@ Unterkapitel 4.2 Logische Operatoren
 ===============================================================================
 ''' 
 
+''' Einführung
+if-Anweisungen führen den Körper (die Befehle) durch, falls die Bedingung wahr ist.
+Manchmal möchte man die Befehle durchführen, 
+- wenn die Bedingung nicht erfüllt ist.
+- wenn mehrere Bedingungen erfüllt sind.
+ '''
 
-''' Bitte lesen: Seite 76, Logische Operatoren '''
+''' Negation 
+Beispiel: 
+                    Bedingung             Negation
+Umgangssprachlich   "x ist nicht 10"      "x ist 10"
+Python              x != 0                x == 0
+
+Umgangssprachlich   x ist grösser als 10  x ist gleich 10 oder kleiner als 10
+Python              x > 10                x <= 10
+
+Umgangssprachlich                         x ist nicht grösser als 10
+                                          not x > 10
+
+Die Negation einer Behauptung ist komplementär zu dieser Behauptung
+
+Wahrheitstabelle
+                    Bedingung                   Negation der Bedingung
+                      Umgangssprachlich Python    Python    
+                      Wahr/Gültig       True      False
+                      Falsch/Ungültig   False     True
+'''
 
 
 ''' Aufgabe 4.15: (Diskussion) '''
@@ -283,7 +308,12 @@ Thema: Wahrheitstabellen
 -------------------------------------------------------------------------------
 '''
 
-''' Wahrheitstabellen für die Operatoren and und or zeichnen '''
+''' Wahrheitstabellen für die Operatoren and und or zeichnen 
+    Ergänzen mit einem Beispiel: x>0, x<10
+    Wann gilt: x>0 und x<10?
+    Wann gilt: x>0 oder x<10?
+'''
+
 ''' (siehe Buch) '''
 
 
