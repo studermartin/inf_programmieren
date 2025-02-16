@@ -144,6 +144,9 @@ Python 2 Language Reference
 
 ''' Aufgabe 4.7: Gleiche Wirkung (Bitte lösen) '''
 
+''' Erläuterung: 
+- if, if-else und if-elif-else Befehle lassen sich verschachteln wie das zweite Beispiel zeigt.
+'''
 
 
 ''' Aufgabe 4.8: Sicheres Vieleck (Bitte lösen) '''
@@ -250,23 +253,22 @@ Manchmal möchte man die Befehle durchführen,
 
 ''' Negation 
 Beispiel: 
-                    Bedingung             Negation
-Umgangssprachlich   "x ist nicht 10"      "x ist 10"
-Python              x != 0                x == 0
+                    Bedingung             Negation (mit Not)          Negation              
+Umgangssprachlich   "x ist 10"            "x ist nicht gleich 10"     "x ist ungleich 10"   
+Python              x != 0                not (x == 10)               x != 10
+                                          
+Umgangssprachlich   x ist grösser als 10  x ist nicht grösser als 10  x ist gleich oder kleiner 10
+Python              x > 10                not x > 10                  x <= 10
 
-Umgangssprachlich   x ist grösser als 10  x ist gleich 10 oder kleiner als 10
-Python              x > 10                x <= 10
-
-Umgangssprachlich                         x ist nicht grösser als 10
-                                          not x > 10
 
 Die Negation einer Behauptung ist komplementär zu dieser Behauptung
 
 Wahrheitstabelle
-                    Bedingung                   Negation der Bedingung
-                      Umgangssprachlich Python    Python    
-                      Wahr/Gültig       True      False
-                      Falsch/Ungültig   False     True
+                    Bedingung                       Negation der Bedingung
+
+                    Umgangssprachlich   Python      Python    
+                    Wahr/Gültig         True        False
+                    Falsch/Ungültig     False       True
 '''
 
 
@@ -278,7 +280,31 @@ Wahrheitstabelle
 
 ''' Aufgabe 4.18: (Diskussion) '''
 
-
+#def test_1(x):
+#    if x == 0:
+#        print ("x ist gleich null.")
+#    else:
+#        print ("x ist nicht gleich null.")
+#
+#def test_2(x):
+#    if x != 0:
+#        print ("x ist nicht gleich null.")
+#    else:
+#        print ("x ist gleich null.")
+#
+#def test_3(x):
+#    if not x == 0:
+#        print ("x ist nicht gleich null.")
+#    else:
+#        print ("x ist gleich null.")
+#
+#def test(x):
+#    test_1(x)
+#    test_2(x)
+#    test_3(x)
+#
+#test(0)
+#test(2)
 
 ''' Beispiel 4.5: not '''
 #x = 1
@@ -308,11 +334,34 @@ Thema: Wahrheitstabellen
 -------------------------------------------------------------------------------
 '''
 
+'''
+Konkrete Beispiele:
+Aussage 1: Die Sonne scheint.
+Aussage 2: Es regnet.
+
+Situationen (Zeichne):
+- Wolken, aber kein Regen.
+- Wolken, mit Regeln
+- Sonne, ohne Regen
+- Sonne mit Regen
+
+Bild:
+Zeichne vier Bilder mit
+- Sonne in der Mitte oder Wolken
+- Regen (ein paar senkrechte Striche) oder kein Regen (keine senkrechte Striche)
+
+
+Für welche Situationen gilt:
+- "Die Sonne scheint." und "Es regnet."
+- "Die Sonne scheint." oder "Es regnet."
+'''
+
 ''' Wahrheitstabellen für die Operatoren and und or zeichnen 
     Ergänzen mit einem Beispiel: x>0, x<10
     Wann gilt: x>0 und x<10?
     Wann gilt: x>0 oder x<10?
 '''
+
 
 ''' (siehe Buch) '''
 
