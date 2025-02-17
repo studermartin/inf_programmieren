@@ -263,12 +263,16 @@ Python              x > 10                not x > 10                  x <= 10
 
 Die Negation einer Behauptung ist komplementär zu dieser Behauptung
 
-Wahrheitstabelle
-                    Bedingung                       Negation der Bedingung
+Wahrheitstabelle:
+    Umgangssprachlich
+    Bedingung         Negation der Bedingung
+    Wahr/Gültig       Falsch/Ungültig
+    Falsch/Ungültig   Wahr/Gültig
 
-                    Umgangssprachlich   Python      Python    
-                    Wahr/Gültig         True        False
-                    Falsch/Ungültig     False       True
+    Python          
+    a           not a
+    True        False
+    False       True
 '''
 
 
