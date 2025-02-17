@@ -253,7 +253,7 @@ Manchmal möchte man die Befehle durchführen,
 
 ''' Negation 
 Beispiel: 
-                    Bedingung             Negation (mit Not)          Negation              
+                    Bedingung             Neg. der Bed. (mit Not)     Negation der Bed. (ohne not)
 Umgangssprachlich   "x ist 10"            "x ist nicht gleich 10"     "x ist ungleich 10"   
 Python              x != 0                not (x == 10)               x != 10
                                           
