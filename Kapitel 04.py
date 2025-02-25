@@ -463,8 +463,10 @@ sobald eine gegebene Aufgabe erledigt ist.
 
 
 
-''' Aufgabe 4.31: (Bitte lösen) '''
+''' Aufgabe 4.31: (Bitte lösen, Abgabe im Teams) '''
 
+
+''' Aufgabe 4.32: (Bitte lösen, Abgabe im Teams) '''
 
 
 ''' Beispiel 4.8: kleinster echter Teiler '''
@@ -483,8 +485,19 @@ sobald eine gegebene Aufgabe erledigt ist.
 #kleinster_teiler(5)
 
 
+''' Aufgabe 4.32: (Bitte lösen, Abgabe im Teams) '''
 
-''' Aufgabe 4.33: (Bitte lösen) '''
+
+
+''' Aufgabe 4.33: (Bitte lösen, Abgabe im Teams '''
+
+
+
+''' Aufgabe 4.34: (Diskussion) '''
+
+
+
+''' Aufgabe 4.35: (Diskussion) '''
 
 
 
@@ -519,12 +532,58 @@ Einführung:
 ''' Flussdiagramm zeichnen '''
 
 
-''' Aufgabe 4.36: (Bitte lösen) '''
+''' Aufgabe 4.36: (Bitte lösen, Abgabe im Teams) '''
 
-''' Aufgabe 4.38: (Bitte lösen) '''
 
-''' Aufgabe 4.42: (Bitte lösen) '''
+''' Aufgabe 4.37: (Bitte lösen, Quiz im Teams) '''
 
-''' Aufgabe 4.44: (Bitte lösen) '''
 
-''' Aufgabe 4.46: (Bitte lösen) '''
+''' Aufgabe 4.38: (Bitte lösen, Abgabe im Teams) '''
+
+
+''' Aufgabe 4.39: (Bitte lösen, Abgabe im Teams, Weglassen) '''
+
+
+''' Aufgabe 4.40: (Bitte lösen, Abgabe im Teams, Weglassen) '''
+
+
+''' Aufgabe 4.41: (Bitte lösen, Abgabe im Teams, Weglassen) '''
+
+
+''' Aufgabe 4.42: (Bitte lösen, Abgabe im Teams) '''
+
+
+''' Aufgabe 4.43: (Bitte lösen, Abgabe im Teams, Weglassen) '''
+
+
+''' Aufgabe 4.44: (Bitte lösen, Abgabe im Teams) '''
+
+
+''' Aufgabe 4.45: (Bitte lösen, Abgabe im Teams, Weglassen) '''
+
+
+''' Aufgabe 4.46: (Bitte lösen, Abgabe im Teams) '''
+
+
+'''
+===============================================================================
+Selbsttest
+===============================================================================
+'''
+
+''' Kapitel 4-Selbsttest-Konzepte und Begriffe '''
+
+
+''' Kapitel 4-Selbsttest-Aufgabe 4.1 (Berechnung mit Zahlen) '''
+
+
+''' Kapitel 4-Selbsttest-Aufgabe 4.2 (Zahlenvergleich) '''
+
+
+''' Kapitel 4-Selbsttest-Aufgabe 4.3 (Dreiecksfigur) '''
+
+
+''' Kapitel 4-Selbsttest-Aufgabe 4.4 (Primzahlen) '''
+
+
+''' Kapitel 4-Selbsttest-Aufgabe 4.5 (Zahlensumme) '''
