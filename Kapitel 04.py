@@ -399,19 +399,42 @@ Thema: Bedingungen verknüpfen
     Es dürfen auch beide Bedingungen erfüllt sein.
 -   if <Bedingung1> and <Bedingung2>:
     Wenn du in einer if-Anweisung zwei Bedingungen mit and (und) verknüpfst, dann führt den Computer den Körper nur aus, beiden Bedingungen erfüllt sind.
+-   if <Bedingung1> and not <Bedingung2>:
+    Mit and und not können Sie zwei Bedingungen so verknüpfen, dass
+    der Körper der if-Anweisung nur dann ausgeführt wird, wenn die erste
+    Bedingung erfüllt ist, aber nicht die zweite (not Bedingung 2).
 '''
 
 
 ''' Aufgabe 4.22: (Diskussion) '''
 
+#from gturtle import *
+#
+#def rechteck(a, b):
+#    if a >= 10 and b >= 10 and a + b <= 500:
+#        repeat 2:
+#            forward(a)
+#            right(90)
+#            forward(b)
+#            right(90)
+#    else:
+#        print("Mindestens eine Seite ist zu kurz " + 
+#            "oder beide zusammen sind zu lang.")
+#
+#makeTurtle()
+#hideTurtle()
+#
+#rechteck(10, 20)
+#rechteck(10, 5)
 
-''' Aufgabe 4.24: Teiler 24 und 54 (Bitte lösen) '''
+
+''' Aufgabe 4.24: Teiler 24 und 54 (Bitte lösen, bitte im Teams abgeben) '''
 
 
-''' Aufgabe 4.25: Teiler von 7 aber nicht 3 (Bitte lösen) '''
+''' Aufgabe 4.25: Teiler von 7 aber nicht 3 (Bitte lösen, bitte im Teams abgeben) '''
 
 
-''' Aufgabe 4.27: Begrüssung (Bitte lösen) '''
+''' Aufgabe 4.27: Begrüssung (Bitte lösen, bitte im Teams abgeben) '''
 
 
 '''
