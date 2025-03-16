@@ -489,6 +489,46 @@ sobald eine gegebene Aufgabe erledigt ist.
 ''' Aufgabe 4.31: (Bitte lösen, Abgabe im Teams) '''
 
 
+''' Umsetzung der repeat-Anweisung
+-   break 
+    Die Anweisung break sorgt in einer Schleife dafür, dass die Ausführung der Schleife sofort abgebrochen wird.
+    Mit break springt der Computer bei der Ausführung des Programms in die erste Zeile nach dem Körper der Schleife - gerade so, als hätte er bereits alle Wiederholungen der Schleife abgeschlossen.
+'''
+
+# from gturtle import *
+
+# makeTurtle()
+# repeat 6:
+#   forward(lOO)
+#   right(60)
+
+# Umsetzung 1
+
+# from gturtle import *
+
+# makeTurtl()
+# i_schleife = 0
+# repeat:
+#   if i schleife < 6:
+#     forward(lOO)
+#     right(60)
+#     i_schleife += 1
+#   else:
+#     break
+
+# Umsetzung 2
+
+# from gturtle import *
+
+# makeTurtle()
+# i_schleife = 0
+# if i_schleife < 6:
+#   forward(lOO)
+#   right (60)
+#   i_schleife += 1
+#   goto 5
+
+
 ''' Aufgabe 4.32: (Bitte lösen, Abgabe im Teams) '''
 
 
