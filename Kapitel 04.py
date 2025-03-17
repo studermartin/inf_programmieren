@@ -489,10 +489,7 @@ sobald eine gegebene Aufgabe erledigt ist.
 ''' Aufgabe 4.31: (Bitte lösen, Abgabe im Teams) '''
 
 
-''' Umsetzung der repeat-Anweisung
--   break 
-    Die Anweisung break sorgt in einer Schleife dafür, dass die Ausführung der Schleife sofort abgebrochen wird.
-    Mit break springt der Computer bei der Ausführung des Programms in die erste Zeile nach dem Körper der Schleife - gerade so, als hätte er bereits alle Wiederholungen der Schleife abgeschlossen.
+''' Umsetzung der repeat-Anweisung mit Zähler
 '''
 
 # from gturtle import *
@@ -531,6 +528,17 @@ sobald eine gegebene Aufgabe erledigt ist.
 
 ''' Aufgabe 4.32: (Bitte lösen, Abgabe im Teams) '''
 
+
+'''
+Wir möchten, dass der Computer für uns den kleinsten echten Teiler einer Zahl
+grösser als 1 sucht. 
+Der Teiler muss grösser als 1 sein. Wir beginnen bei 2 und probieren alle möglichen Teiler aus.
+Wir brechen die Schleife ab, sobald wir einen Teiler gefunden haben. 
+Ist dies kein echter Teiler, so ist der kleinste gefundene Teiler die Zahl selbst und diese somit eine Primzahl.
+
+--> Das Programm aus dem Text entwickeln
+
+'''
 
 ''' Beispiel 4.8: kleinster echter Teiler '''
 #def kleinster_teiler(zahl):
