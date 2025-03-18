@@ -530,8 +530,7 @@ sobald eine gegebene Aufgabe erledigt ist.
 
 
 '''
-Wir möchten, dass der Computer für uns den kleinsten echten Teiler einer Zahl
-grösser als 1 sucht. 
+Wir möchten, dass der Computer für uns den kleinsten echten Teiler einer Zahl grösser als 1 sucht. 
 Der Teiler muss grösser als 1 sein. Wir beginnen bei 2 und probieren alle möglichen Teiler aus.
 Wir brechen die Schleife ab, sobald wir einen Teiler gefunden haben. 
 Ist dies kein echter Teiler, so ist der kleinste gefundene Teiler die Zahl selbst und diese somit eine Primzahl.
@@ -549,11 +548,16 @@ Ist dies kein echter Teiler, so ist der kleinste gefundene Teiler die Zahl selbs
 #        teiler += 1
 #    print("Der kleinste Teiler von", zahl, "ist", teiler)
 #    
-#    if (teiler == zahl):
+#    if teiler == zahl:
 #        print("Die Zahl", zahl, "ist eine Primzahl.")
 #
 #kleinster_teiler(4)
 #kleinster_teiler(5)
+
+
+'''
+Flussdiagramm (wie im Buch 2-spaltig zeichnen)
+'''
 
 
 ''' Aufgabe 4.32: (Bitte lösen, Abgabe im Teams) '''
