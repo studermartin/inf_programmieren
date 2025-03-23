@@ -560,15 +560,12 @@ Flussdiagramm (wie im Buch 2-spaltig zeichnen)
 '''
 
 
-''' Aufgabe 4.32: (Bitte lösen, Abgabe im Teams) '''
+
+''' Aufgabe 4.33: (Bitte lösen, Abgabe im Teams) '''
 
 
 
-''' Aufgabe 4.33: (Bitte lösen, Abgabe im Teams '''
-
-
-
-''' Aufgabe 4.34: (Diskussion) '''
+''' Aufgabe 4.34: (Bitte lösen, Abgabe im Teams) '''
 
 
 
