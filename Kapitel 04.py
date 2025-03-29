@@ -613,10 +613,10 @@ Einführung:
 ''' Aufgabe 4.38: (Bitte lösen, Abgabe im Teams) '''
 
 
-''' Aufgabe 4.39: (Bitte lösen, Abgabe im Teams, Weglassen) '''
+''' Aufgabe 4.39: (Bitte lösen, Abgabe im Teams) '''
 
 
-''' Aufgabe 4.40: (Bitte lösen, Abgabe im Teams, Weglassen) '''
+''' Aufgabe 4.40: (Bitte lösen, Abgabe im Teams) '''
 
 
 ''' Aufgabe 4.41: (Bitte lösen, Abgabe im Teams, Weglassen) '''
