@@ -70,9 +70,11 @@ ohne die Anweisung neue_daten = [0]*150 zu verwenden?
 '''
 
 
-''' Aufgabe 5.4: Lösen Sie die Aufgabe '''
+''' Aufgabe 5.4 (alle Werte in einer Liste um 2 erhöhen): Lösen Sie die Aufgabe '''
 
-''' Aufgabe 5.6: Lösen Sie die Aufgabe '''
+''' Aufgabe 5.5 (alle geraden Werte in einer Liste halbieren): Lösen Sie die Aufgabe '''
+
+''' Aufgabe 5.6 (Durchschnitt der Werte in der Liste): Lösen Sie die Aufgabe '''
 
 
 
@@ -114,10 +116,10 @@ Python 2 Language Reference
 
 
 
-''' Aufgabe 5.7: Lösen Sie die Aufgabe '''
+''' Aufgabe 5.7 (Index und Wert des minimalen Elements in einer Liste): Lösen Sie die Aufgabe '''
 
 
-''' Aufgabe 5.9: Lösen Sie die Aufgabe '''
+''' Aufgabe 5.9 (Anzahl 7 in einer Liste zählen): Lösen Sie die Aufgabe '''
 
 
 
@@ -140,9 +142,9 @@ Python 2 Language Reference
 
 
 
-''' Aufgabe 5.11 (Hilfsvariable): Bitte lösen '''
+''' Aufgabe 5.11 (Bubblesort: Hilfsvariable): Bitte lösen '''
 
-''' Aufgabe 5.12 (Abbruch bei sortierter Liste): Bitte lösen '''
+''' Aufgabe 5.12 (Bubblesort: Abbruch bei sortierter Liste): Bitte lösen '''
 
 ''' Aufgabe 5.13 (Skalarprodukt): Bitte lösen '''
 
@@ -174,9 +176,9 @@ Python 2 Language Reference
 
 
 
-''' Aufgabe 5.14 (Nachvollziehen): Bitte lösen '''
+''' Aufgabe 5.14 (Binäre Suche: Nachvollziehen): Bitte lösen '''
 
-''' Aufgabe 5.15 (ohne Boolesche Variable): Bitte lösen '''
+''' Aufgabe 5.15 (Binäre Suche: ohne Boolesche Variable): Bitte lösen '''
 
 
 '''
@@ -272,7 +274,7 @@ Unterkapitel 5.3 Dynamische Datenstrukturen
 
 
 
-''' Aufgabe 5.18 (Einfügen in Liste): Bitte lösen '''
+''' Aufgabe 5.18 (Primzahlen einer Liste anfügen): Bitte lösen '''
 
 
 
