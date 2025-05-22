@@ -51,14 +51,14 @@ Unterschied: sie geben mit Hilfe des Schlüsselwortes return einen Wert zurück.
 
 
 ''' Aufgabe 7.1: Konstante Funktion (Diskussion) '''
-# def q(x):
+# def f(x):
 #     return 3
 
-# print(q(1))
-# print(q(10))
+# print(f(1))
+# print(f(10))
 
 ''' 
-Entspricht der Funktion q(x)=3
+Entspricht der Funktion f(x)=3
 '''
 
 '''
@@ -83,9 +83,8 @@ Funktionen mit mehreren Parametern
 # if flaeche_rechteck(3, 20) > 100:
 #    print("Fläche > 100")
 
-# Fläche berechnen und ...?recht
+# Fläche berechnen und ...?
 # flaeche_rechteck(3, 20)
-
 
 
 ''' Aufgabe 7.2: Umfang eines Rechtecks (bitte lösen) '''
@@ -105,12 +104,21 @@ liefert der Befehl return im Funktionskörper den Wert der Funktion zurück.
 
 
 ''' Aufgabe 7.3: Index von (bitte lösen) '''
+''' Hinweis:
+- Alle Elemente einer Liste mit einer repeat-Schleife durchgehen und falls gefunden, mit return den Index zurückgeben.
+'''
 
 
 ''' Aufgabe 7.4: Ist sortiert (bitte lösen) '''
+''' Hinweis: 
+- Eine Liste ist sortiert, wenn alle nebeneinander stehenden Werte sortiert sind.
+'''
 
 
 ''' Aufgabe 7.5: Binäre Suche (bitte lösen) '''
+''' Hinweis: 
+- Der Algorithmus für die binäre Suche kann einfach aus Beispiel 5.4 übernommen werden. Man muss die Algorithus "nur" in eine Funktion verpacken.
+'''
 
 
 ''' Was wir gelernt haben
@@ -694,12 +702,15 @@ Die Wurzel wird ganz oben gezeichnet.
 Darunter wächst der Baum (visualisert durch Kanten) nach unten.
 
 Ganz zuunterst sind die Knoten, die man Blätter nennt.
-Aus den Blättern gehen keine Kanten mehr nach unten.
+Aus den Blättern gehen keine Kanten mehr nach unten
 
-Alle Knoten - ausser den Blättern - werden innere Knoten genannt.
+- Alle Knoten - ausser den Blättern - werden innere Knoten genannt.
 Wenn aus einem Knoten mehrere Kanten nach unten führen, sprechen wir von einer Verzweigung im Baum.
 '''
 
+''' Hinweis: 
+- Eine Liste ist sortiert, wenn alle nebeneinander stehenden Werte sortiert sind.
+'''
 
 '''
 -------------------------------------------------------------------------------

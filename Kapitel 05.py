@@ -79,6 +79,14 @@ ohne die Anweisung neue_daten = [0]*150 zu verwenden?
 
 
 ''' Beispiel 5.2: Minimales Element in einer Liste '''
+
+'''
+    Demo an der Tafel: wie geht man von Hand durch?
+    1. Beim ersten Element anfangen und alle Elemente durchgehen (Muster 1)
+    2. Sich das bisher kleinste Element merken. Finde ich ein kleineres als das bisher kleinste, tausche ich aus. (Muster 2)
+    
+'''
+
 #zahlen = [ -3, 1, 7, 2, -6, 4, 8, 12, 0, 7]
 #minimum = zahlen[0]
 #index = 0
