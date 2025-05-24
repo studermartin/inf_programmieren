@@ -173,7 +173,7 @@ Ein Sus führt die Operationen (bei verdeckten Karten) durch.
 
 
 
-''' Aufgabe 5.11 (Bubblesort: Hilfsvariable): Bitte lösen '''
+''' Aufgabe 5.11 (Bubblesort: Hilfsvariable, Begründung): Bitte lösen '''
 
 ''' Aufgabe 5.12 (Bubblesort: Abbruch bei sortierter Liste): Bitte lösen '''
 
