@@ -128,10 +128,33 @@ Python 2 Language Reference
 
 
 ''' Aufgabe 5.9 (Anzahl 7 in einer Liste zählen): Lösen Sie die Aufgabe '''
+''' An der Tafel in Pseudocode entwickeln:
+        1. 
+		    Der Reihe nach alle Elemente in der Liste durchgehen:
+			    Falls eine 7 gefudnen wurde, dann den Zähler um 1 erhöhen.
+		    Zähler ausgeben.
+        2.
+            Zähler auf 0 setzen.
+'''
 
 
 
 ''' Beispiel 5.3: Bubble-Sort '''
+
+''' Sortieralgorithmen 
+Schritt 1: Einschränkung der Operationen
+- Zwei Zahlen an je zwei Indexstellen vergleichen
+- Zwei Zahlen an je zwei Indexstellen austauschen
+(3 Karten offen hinlegen)
+
+Schritt 2: Karten geschlossen hinlegen
+Ein SuS kann 
+    - Fragen stellen: Ist die Karte an der Stelle 0 kleiner als die Karte an der Stelle 2
+    - Operationen auslösen: Vertausche die Karten an der STelle 0 und 2
+Ein Sus führt die Operationen (bei verdeckten Karten) durch.
+'''
+
+
 ''' Hinweis: https://de.wikipedia.org/wiki/Bubblesort '''
 #x = [ 1, 7, 2, 20, 105, 6, -5, 0, 18, 200]
 #repeat len(x):
