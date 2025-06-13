@@ -323,7 +323,7 @@ Die Funktionen zur Zeichenfläche erstellen sind:
 # vertTicks = 2
 
 # makeGPanel(minX, maxX, minY, maxY)
-# title("sin (x)")
+# title("sin(x)")
 # drawGrid(minX, maxX, minY, maxY, horizTicks, vertTicks, "grey")
 
 # # Sinus zeichnen
