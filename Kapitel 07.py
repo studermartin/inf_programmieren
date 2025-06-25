@@ -304,10 +304,9 @@ Variante 2: mit gpanel
 - Koordinatensystem (ungleich Pixel)
 
 Die Funktionen zur Zeichenfläche erstellen sind:
-- makeGPanel:
-- title
-- drawGrid
-
+- makeGPanel: Erstellt eine Zeichenfläche mit den angegebenen Koordinaten
+- title: Setzt den Titel der Zeichenfläche
+- drawGrid: Zeichnet ein Gitter auf der Zeichenfläche
 '''
 
 
@@ -445,5 +444,9 @@ Um die in den Modulen definierten Funktionen zu verwenden, muss die import-Anwei
 Unterkapitel 7.4 Zusammenfassung
 ===============================================================================
 ''' 
+
+''' Konzepte und Befehle (Bitte im Teams lösen) '''
+
+''' Aufgaben (Bitte im Teams lösen) '''
 
 

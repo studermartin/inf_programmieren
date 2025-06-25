@@ -241,7 +241,7 @@ Unterkapitel 5.2 Wie der Computer mit Listen arbeitet
 
 
 
-''' Aufgabe 5.16 (Liste kopieren): Bitte lösen '''
+''' Aufgabe 5.16: Liste kopieren (Bitte lösen, Abgabe im Teams) '''
 ''' Hinweis: die gegebene Aufgabe zuerst zeichnen; dann eine Lösung erarbeiten. '''
 
 
@@ -305,7 +305,7 @@ Unterkapitel 5.3 Dynamische Datenstrukturen
 
 
 
-''' Aufgabe 5.18 (Primzahlen einer Liste anfügen): Bitte lösen '''
+''' Aufgabe 5.18 (Primzahlen einer Liste anfügen): (Bitte in Teams abgeben) '''
 
 
 
