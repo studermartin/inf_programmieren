@@ -5,7 +5,7 @@ Kapitel 1 Die ersten Programme und Schleifen
 '''
 
 '''
-Programmiersprache: Eine einfache, klar definierte Sprache, die der Computer versteht, hier TigerJython, ein Dialog von Python.
+Programmiersprache: Eine einfache, klar definierte Sprache, die der Computer versteht, hier TigerJython, ein Dialekt von Python.
 Programmieren: Das Schreiben einer folge von Befehlen in einer Programmiersprache.
 Befehle: Analog zu einer natürlichen Sprache besteht eine Programmiersprache aus Wörtern, hier Befehlen.
 Programm: Ein grammatikalisch korrekter Text in einer Programmiersprache, die eine Tätigkeit beschreibt.
