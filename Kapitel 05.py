@@ -341,6 +341,22 @@ Unterkapitel 5.3 Dynamische Datenstrukturen
 #    teilnehmende.append(teilnahme)
 #print(teilnehmende)
 
+''' Nicht im Buch: Vorbereitung Beispiel 5.9 '''
+
+# zahlen = []
+# x = 1
+# repeat 10:
+# 	zahlen.append(x)
+# 	x += 1
+# print(zahlen)
+
+''' Aufgabe 5.22a: Bitte lösen 
+    a) Liste der Zahlen von 10 bis 20)
+    b) Liste der Zahlen von -10 bis 0
+    c) Liste der geraden Zahlen von 2 bis 20
+    d) Liste der ungeraden Zahlen von 1 bis 19
+    '''
+
 
 ''' Beispiel 5.9: Liste von Quadratzahlen '''
 #quadratzahlen = []
