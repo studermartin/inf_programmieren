@@ -350,8 +350,8 @@ Unterkapitel 5.3 Dynamische Datenstrukturen
 # 	x += 1
 # print(zahlen)
 
-''' Aufgabe 5.22a: Bitte lösen 
-    a) Liste der Zahlen von 10 bis 20)
+''' Aufgabe 5.22a (Liste von Zahlen): Bitte lösen 
+    a) Liste der Zahlen von 10 bis 20
     b) Liste der Zahlen von -10 bis 0
     c) Liste der geraden Zahlen von 2 bis 20
     d) Liste der ungeraden Zahlen von 1 bis 19
