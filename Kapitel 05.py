@@ -292,6 +292,8 @@ Unterkapitel 5.3 Dynamische Datenstrukturen
 ''' 
 
 
+### LP ###
+
 ''' 
 -   Listen wurden bisher mit einer festen Grösse erzeugt.
 -   Listen in Python können aber erweitert werden (--> dynamische Datenstrukturen)
@@ -304,10 +306,12 @@ Unterkapitel 5.3 Dynamische Datenstrukturen
 #print(primzahlen)
 
 
+### SuS ###
 
 ''' Aufgabe 5.18 (Primzahlen einer Liste anfügen): (Bitte in Teams abgeben) '''
 
 
+### LP ###
 
 ''' Beispiel 5.7: Listen-Methode pop '''
 #primzahlen = [2, 3, 5]
@@ -350,6 +354,9 @@ Unterkapitel 5.3 Dynamische Datenstrukturen
 # 	x += 1
 # print(zahlen)
 
+
+### SuS ###
+
 ''' Aufgabe 5.22a (Liste von Zahlen): Bitte lösen 
     a) Liste der Zahlen von 10 bis 20
     b) Liste der Zahlen von -10 bis 0
@@ -357,6 +364,8 @@ Unterkapitel 5.3 Dynamische Datenstrukturen
     d) Liste der ungeraden Zahlen von 1 bis 19
     '''
 
+
+### LP ###
 
 ''' Beispiel 5.9: Liste von Quadratzahlen '''
 #quadratzahlen = []
@@ -367,8 +376,9 @@ Unterkapitel 5.3 Dynamische Datenstrukturen
 #print(quadratzahlen)
 
 
-''' Aufgabe 5.22 (Liste der Quadratzahlen kleiner 1000): Bitte lösen '''
+### SuS ###
 
+''' Aufgabe 5.22 (Liste der Quadratzahlen kleiner 1000): Bitte lösen '''
 
 
 ''' Aufgabe 5.19 (Fibonacci-Zahlen): Bitte lösen '''
@@ -378,6 +388,8 @@ Unterkapitel 5.3 Dynamische Datenstrukturen
 
 ''' Aufgabe 5.25 (echte Teiler): Bitte lösen '''
 
+
+### LP ###
 
 ''' Was wir gelernt haben
 - Eine Liste speichert eine beliebige Anzahl Werte.
@@ -399,6 +411,7 @@ Unterkapitel 5.4 Die Elemente einer Liste durchlaufen
 ===============================================================================
 ''' 
 
+### LP ###
 
 ''' IU
 - Wir haben bisher die Elemente einer Liste mit einer Schleife und einem Zähler durchlaufen.
@@ -507,11 +520,14 @@ Beispielsweise alle geraden Zahlen in eine Liste, alle ungeraden in eine andere 
 
 
 
-''' Aufgabe 5.33: Laufteilnehmende unterteilen (Bitte lösen) '''
+''' Aufgabe 5.33: Laufteilnehmende unterteilen (Weglassen) '''
 
+### SuS ###
 
 ''' Aufgabe 5.34: Indexe der geraden Zahlen (Bitte lösen) '''
 
+
+### LP ###
 
 ''' ---- Die Werte einer Liste auf einen Wert reduzieren --- '''
 
@@ -523,11 +539,15 @@ Beispielsweise alle geraden Zahlen in eine Liste, alle ungeraden in eine andere 
 #print(summe)
 
 
+### SuS ###
+
 ''' Aufgabe 5.36: Summe der Quadratzahlen von 1 bis 100 (Bitte lösen) '''
 
 
 ''' Aufgabe 5.38: Durchschnitt (Bitte lösen) '''
 
+
+### LP ###
 
 ''' ---- Eine Liste bearbeiten --- '''
 
@@ -546,10 +566,15 @@ Beispielsweise alle geraden Zahlen in eine Liste, alle ungeraden in eine andere 
 #print(x)
 
 
+### SuS ###
+
 ''' Aufgabe 5.39: Liste ohne Zahlen im Bereich 2-4 (inklusive) (Bitte lösen) '''
 
 
 ''' Aufgabe 5.40 '''
+
+
+### LP ###
 
 # satz = "Der Himmel ist blau"
 # liste_von_woertern = satz.split()
