@@ -139,7 +139,7 @@ Unterkapitel 1.2 Einfache Schleifen
 
 
 
-''' Aufgabe 1.8: Regelmässige Vielecke (Lösen Sie die Aufgabe)
+''' Aufgabe 1.8: Regelmässige Vielecke: Bitte in Teams abgeben
 a) 11 Ecken, 50 Pixel Seitenlänge
 '''
 
@@ -149,6 +149,8 @@ a) 11 Ecken, 50 Pixel Seitenlänge
 --- Thema: Die Turtle bewegen ohne zu zeichnen ---
 '''
 
+
+### LP ###
 
 ''' Beispiel 1.6 '''
 
@@ -164,7 +166,8 @@ a) 11 Ecken, 50 Pixel Seitenlänge
 
 
 ''' Aufgabe 1.9: Diskussion '''
-
+# Gibt es einen Unterschied zwischen der Ausführung von penUp () und
+# setPenColor ( white ) ? Könnte man nicht auf penUp () verzichten
 
 
 ''' Beispiel 1.7: Stern '''
@@ -178,12 +181,13 @@ a) 11 Ecken, 50 Pixel Seitenlänge
 #    right(360/8)
 
 
+### SuS ###
 
-''' Aufgabe 1.13: Treppenstufen (Bitte lösen)'''
+''' Aufgabe 1.13: Treppenstufen (Bitte lösen): Bitte im Teams abgeben'''
 
 
 
-''' Aufgabe 1.14: Was macht dieses Programm (Bitte lösen)'''
+''' Aufgabe 1.14: Was macht dieses Programm (Bitte lösen): keine Abgabe '''
 #from gturtle import *
 #
 #makeTurtle()
@@ -192,8 +196,7 @@ a) 11 Ecken, 50 Pixel Seitenlänge
 #    backward(200)
 #    right(90)
 #    forward(1)
-#    left(90
-
+#    left(90)
 
 
 
@@ -202,6 +205,9 @@ a) 11 Ecken, 50 Pixel Seitenlänge
 Unterkapitel 1.3 Kreise zeichnen und Schleifen in Schleifen legen
 ===============================================================================
 '''
+
+
+### LP ###
 
 ''' Beispiel 1.8: Vieleck mit 360 Ecken (=Kreis) '''
 
@@ -253,8 +259,10 @@ Unterkapitel 1.3 Kreise zeichnen und Schleifen in Schleifen legen
 
 ''' Aufgabe 1.19 (Diskussion '''
 
-''' Aufgabe 1.18: Blume (Bitte lösen)'''
 
+### SuS ###
+
+''' Aufgabe 1.18: Blume (Bitte lösen)'''
 
 
 
