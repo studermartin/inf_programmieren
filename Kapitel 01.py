@@ -186,6 +186,8 @@ a) 11 Ecken, 50 Pixel Seitenlänge
 ''' Aufgabe 1.13: Treppenstufen (Bitte lösen): Bitte im Teams abgeben'''
 
 
+''' Aufgabe 1.12: Regelmässiges Fünfeck mit Seitenlänge 70 Pixel (Bitte lösen) '''
+
 
 ''' Aufgabe 1.14: Was macht dieses Programm (Bitte lösen): keine Abgabe '''
 #from gturtle import *
