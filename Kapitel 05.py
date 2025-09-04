@@ -591,3 +591,19 @@ Berechnen von Summen, des Minimums oder Maximums von Elementen, das Aufteilen od
 '''
 
 
+'''
+===============================================================================
+Unterkapitel Zusammenfassung
+===============================================================================
+''' 
+
+
+''' Kapitel 5-Selbsttest-Konzepte und Befehle '''
+
+''' Selbsttest 5.1: Zahl aus Liste entfernen: (Bitte lösen und im Teams abgeben) '''
+
+''' Selbsttest 5.2: Präfixsumme (Bitte lösen und im Teams abgeben) '''
+
+''' Selbsttest 5.1: Element in sortierte Liste einfügen (Bitte lösen und im Teams abgeben) '''
+
+
