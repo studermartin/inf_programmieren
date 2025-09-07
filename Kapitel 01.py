@@ -240,7 +240,16 @@ Unterkapitel 1.3 Kreise zeichnen und Schleifen in Schleifen legen
 
 
 
-''' Beispiel 1.10: Blüte (Schleifen in Schleifen) '''
+''' Aufgabe 1.18: Blume (Bitte in Teams abgeben)'''
+
+
+### SuS ###
+
+''' Aufgabe 1.17: Blätter aus Viertel- und aus Fünftelkreisen (Bitte im Teams abgeben) '''
+
+
+### Lp ###
+
 
 #from gturtle import *
 #
@@ -264,7 +273,9 @@ Unterkapitel 1.3 Kreise zeichnen und Schleifen in Schleifen legen
 
 ### SuS ###
 
-''' Aufgabe 1.18: Blume (Bitte lösen)'''
+
+
+''' Aufgabe 1.18: Blume (Bitte in Teams abgeben)'''
 
 
 
@@ -274,6 +285,7 @@ Unterkapitel 1.4 Programme, die mit Texten arbeiten
 ===============================================================================
 '''
 
+### LP ###
 
 
 ''' Konzepte und Begriffe
@@ -331,8 +343,9 @@ Unterkapitel 1.4 Programme, die mit Texten arbeiten
 #print("   X   ")
 
 
+### SuS ###
 
-''' Aufgabe 1.20: Baum (Bitte lösen)'''
+''' Aufgabe 1.20: Baum (Bitte in Teams abgeben)'''
 
 
 
@@ -342,6 +355,7 @@ Programme, die rechnen
 ===============================================================================
 '''
 
+### LP ###
 
 
 ''' Beispiel 1.13: Berechne (163*3)-(77*4) '''
@@ -383,21 +397,37 @@ Details:
 '''
 
 
+### SuS ###
 
-''' Aufgabe 1.23: Ausdruck 4*4*4*4+1 berechnen und ausgeben (Bitte lösen)'''
-
-
-
-''' Aufgabe 1.25: Rechteck mit Flächeninhalt 720 und erster Seite 48 Pixel (Bitte lösen)'''
+''' Aufgabe 1.23: Ausdruck 4*4*4*4+1 berechnen und ausgeben (Bitte im Teams abgeben)'''
 
 
 
-''' Aufgabe 1.26: Haus (Bitte lösen)'''
+''' Aufgabe 1.25: Rechteck mit Flächeninhalt 720 und erster Seite 48 Pixel (Bitte im Teams abgeben) '''
 
 
-''' Aufgabe 1.27: Gleichseitiges Dreieck (Bitte lösen)'''
+
+''' Aufgabe 1.26: Haus (Bitte im Teams abgeben) '''
 
 
-''' Aufgabe 1.28: Haus mit roter Höhe (Bitte lösen)'''
+''' Aufgabe 1.27: Gleichseitiges Dreieck (Bitte im Teams abgeben)'''
 
 
+''' Aufgabe 1.28: Haus mit roter Höhe (Bitte im Teams abgeben)'''
+
+
+
+'''
+===============================================================================
+Selbsttest
+===============================================================================
+'''
+
+### SuS ###
+
+''' Konzepte und Befehle (Bitte im Teams lösen) '''
+
+
+''' Aufgaben (Bitte alle Aufgaben lösen) '''
+
+''' Aufgaben 1.1, 1.2 und 1.5 im Teams abgeben '''
