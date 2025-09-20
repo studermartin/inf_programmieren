@@ -30,18 +30,18 @@ Unterkapitel 2.1 Neue Befehle definieren und verwenden
 
 ''' Beispiel 2.1: Befehl quadrat100 definieren '''
 
-#from gturtle import *
-#
-#def quadrat100():       # neuen Befehl mit Namen quadrat100 definieren
-#    repeat 4:           # Beschreibung des neuen Befehls quadrat100.
-#        forward(100)    # Alle Zeilen, die unterhalb von def eingericht sind, 
-#        right(90)       # gehören zum Körper des Befehls.
-#                        # Der Computer lernt den Befehl, führt ihn aber nicht aus.
-#
-#makeTurtle()
-#quadrat100()
-#left(45)
-#quadrat100()
+from gturtle import *
+
+def quadrat100():       # neuen Befehl mit Namen quadrat100 definieren
+   repeat 4:           # Beschreibung des neuen Befehls quadrat100.
+       forward(100)    # Alle Zeilen, die unterhalb von def eingericht sind, 
+       right(90)       # gehören zum Körper des Befehls.
+                       # Der Computer lernt den Befehl, führt ihn aber nicht aus.
+
+makeTurtle()
+quadrat100()
+left(45)
+quadrat100()
 
 
 ''' Aufgabe 2.1: Definition und Nutzung Befehl dreieck50 (Bitte lösen)'''
@@ -65,18 +65,18 @@ Unterkapitel 2.1 Neue Befehle definieren und verwenden
     
 
 ''' Beispiel 2.2: Befehl quadrat100 nutzen um ein Fenster zu zeichnen '''
-#from gturtle import *
-#
-#def quadrat100():       # neuen Befehl mit Namen quadrat100 definieren
-#    repeat 4:           # Beschreibung des neuen Befehls quadrat100.
-#        forward(100)    # Alle Zeilen, die unterhalb von def eingericht sind, 
-#        right(90)       # gehören zum Körper des Befehls.
-#                        # Der Computer lernt den Befehl, führt ihn aber nicht aus.
-#
-#makeTurtle()
-#repeat 4:
-#    quadrat100()
-#    left(90)
+from gturtle import *
+
+def quadrat100():       # neuen Befehl mit Namen quadrat100 definieren
+   repeat 4:           # Beschreibung des neuen Befehls quadrat100.
+       forward(100)    # Alle Zeilen, die unterhalb von def eingericht sind, 
+       right(90)       # gehören zum Körper des Befehls.
+                       # Der Computer lernt den Befehl, führt ihn aber nicht aus.
+
+makeTurtle()
+repeat 4:
+   quadrat100()
+   left(90)
 
 
 ''' Aufgabe 2.2: Blumen zeichnen (Bitte lösen)'''
@@ -89,18 +89,18 @@ Unterkapitel 2.1 Neue Befehle definieren und verwenden
 - Ein Programm (siehe Beispiel 2.2) besteht aus einem Hauptprogramm und mehreren Unterprogrammen.
 '''
 
-#from gturtle import *
-#
-#def quadrat100():       # neuen Befehl mit Namen quadrat100 definieren
-#    repeat 4:           # Beschreibung des neuen Befehls quadrat100.
-#        forward(100)    # Alle Zeilen, die unterhalb von def eingericht sind, 
-#        right(90)       # gehören zum Körper des Befehls.
-#                        # Der Computer lernt den Befehl, führt ihn aber nicht aus.
-#
-#makeTurtle()
-#repeat 4:
-#    quadrat100()
-#    left(90)
+from gturtle import *
+
+def quadrat100():       # neuen Befehl mit Namen quadrat100 definieren
+   repeat 4:           # Beschreibung des neuen Befehls quadrat100.
+       forward(100)    # Alle Zeilen, die unterhalb von def eingericht sind, 
+       right(90)       # gehören zum Körper des Befehls.
+                       # Der Computer lernt den Befehl, führt ihn aber nicht aus.
+
+makeTurtle()
+repeat 4:
+   quadrat100()
+   left(90)
 
 
 ''' Hinweise: langfristiges Speichern
@@ -113,6 +113,7 @@ Unterkapitel 2.1 Neue Befehle definieren und verwenden
 
 
 ''' Aufgabe 2.5: Quadrate (Freiwillige Aufgabe)'''
+
 
 ''' Aufgabe 2.7: Offene Quadrate (Freiwillige Aufgabe)'''
 
@@ -137,14 +138,14 @@ Wie bereits bekannt, darf man repeat auch im Körper einer anderen Schleife verw
 '''
 
 ''' Beispiel 2.3: Quadrat mit runden Ecken '''
-#from gturtle import * 
-#
-#makeTurtle()
-#repeat 4:
-#    repeat 9: 
-#        forward(4)
-#        left(10)
-#    forward (75) 
+from gturtle import * 
+
+makeTurtle()
+repeat 4:
+   repeat 9: 
+       forward(4)
+       left(10)
+   forward (75) 
 
 ''' Fragen 
 1. Ist das übersichtlich?
@@ -153,20 +154,20 @@ Wie bereits bekannt, darf man repeat auch im Körper einer anderen Schleife verw
 
 
 ''' Schleifen durch Befehle ersetzen zur Erhöhung der Verständlichkeit '''
-#from gturtle import * 
-#
-#def viertelkreis():
-#    repeat 9: 
-#        forward(4)
-#        left(10)
-#
-#def rund_quadrat():
-#    repeat 4:
-#        viertelkreis()    
-#        forward(75) 
-#
-#makeTurtle()
-#rund_quadrat()
+from gturtle import * 
+
+def viertelkreis():
+   repeat 9: 
+       forward(4)
+       left(10)
+
+def rund_quadrat():
+   repeat 4:
+       viertelkreis()    
+       forward(75) 
+
+makeTurtle()
+rund_quadrat()
 
 
 ''' Hinweise: Was ein gutes Programm ausmacht
@@ -193,30 +194,30 @@ Unterkapitel 2.3 Befehle in Befehlen verwenden
 ''' Beispiel 2.4: Farbiger Stern '''
 
 ''' Hinweis: Schrittweises entwickeln des Programms '''
-#
-#from gturtle import *
-#
-#def zacke():
-#    forward(100)
-#    left(120)
-#    forward(100)
-#    right(60)
-#
-#def zacke_rot():
-#    setPenColor("red")
-#    zacke()
-#
-#def zacke_blau():
-#    setPenColor("blue")
-#    zacke()
-#
-#def stern():
-#    repeat 3:
-#        zacke_rot()
-#        zacke_blau()
-#
-#makeTurtle()
-#stern()
+
+from gturtle import *
+
+def zacke():
+   forward(100)
+   left(120)
+   forward(100)
+   right(60)
+
+def zacke_rot():
+   setPenColor("red")
+   zacke()
+
+def zacke_blau():
+   setPenColor("blue")
+   zacke()
+
+def stern():
+   repeat 3:
+       zacke_rot()
+       zacke_blau()
+
+makeTurtle()
+stern()
 
 
 ''' Aufgabe 2.9: 2x2-Fenster (Bitte lösen) '''
@@ -229,30 +230,30 @@ Unterkapitel 2.4 Animationen programmieren
 '''
 
 ''' Beispiel 2.5: Animation '''
-#from gturtle import * 
-#
-#def dreieck100():
-#    repeat 3:
-#        forward(100)
-#        right(120)
-#
-#def zeige_dreieck():
-#    setPenColor("red")
-#    dreieck100()
-#    delay(1000)
-#    setPenColor("white")
-#    dreieck100()
-#    
-#makeTurtle()
-#hideTurtle()
-#repeat 50:
-#    zeige_dreieck()
-#    right(90)
-#    penUp()
-#    forward(5)
-#    penDown()
-#    left(90)
-#showTurtle()
+from gturtle import * 
+
+def dreieck100():
+   repeat 3:
+       forward(100)
+       right(120)
+
+def zeige_dreieck():
+   setPenColor("red")
+   dreieck100()
+   delay(1000)
+   setPenColor("white")
+   dreieck100()
+   
+makeTurtle()
+hideTurtle()
+repeat 50:
+   zeige_dreieck()
+   right(90)
+   penUp()
+   forward(5)
+   penDown()
+   left(90)
+showTurtle()
 
 ''' Fragen
 - Wie könnte man die Lesbarkeit noch verbessern?
@@ -270,26 +271,26 @@ Unterkapitel 2.4 Animationen programmieren
 '''
 
 ''' Aufgabe 2.13: Sekundenzeiger '''
-## Musterlösung
-#
-#from gturtle import * 
-#
-#def zeige_sekundenzeiger():
-#    setPenWidth(2)
-#    setPenColor("red")
-#    forward(100)
-#    delay(1000)
-#    setPenWidth(4)
-#    setPenColor("white")
-#    backward(100)
-#    setPenWidth(2)
-#    
-#makeTurtle()
-#hideTurtle()
-#repeat 60:
-#    zeige_sekundenzeiger()
-#    right(360/60)
-#showTurtle()
+# Musterlösung
+
+from gturtle import * 
+
+def zeige_sekundenzeiger():
+   setPenWidth(2)
+   setPenColor("red")
+   forward(100)
+   delay(1000)
+   setPenWidth(4)
+   setPenColor("white")
+   backward(100)
+   setPenWidth(2)
+   
+makeTurtle()
+hideTurtle()
+repeat 60:
+   zeige_sekundenzeiger()
+   right(360/60)
+showTurtle()
 
 ''' Aufgabe 2.15: Digitaler Zähler (Bitte in 3er/4er-Gruppen lösen) '''
 
@@ -315,46 +316,46 @@ Selbsttest
 
 # Musterlösung
 from gturtle import *
-#
-#def astspitze():
-#    left(45)
-#    repeat 3:
-#        forward(40)
-#        backward(40)
-#        right(45)
-#    left(2*45)
-#        
-#def ast():
-#    forward(40)
-#    astspitze()
-#    backward(40)
-#    
-#def schneeflocke():
-#    repeat 6:
-#        ast()
-#        left(360/6)
-#
-#makeTurtle()
-#hideTurtle()
-#schneeflocke()
+
+def astspitze():
+   left(45)
+   repeat 3:
+       forward(40)
+       backward(40)
+       right(45)
+   left(2*45)
+       
+def ast():
+   forward(40)
+   astspitze()
+   backward(40)
+   
+def schneeflocke():
+   repeat 6:
+       ast()
+       left(360/6)
+
+makeTurtle()
+hideTurtle()
+schneeflocke()
 
 ''' Selbsttest-Aufgabe 2.5 (fünfzackiger Stern) '''
 # Musterlösung
-# 
-#from gturtle import *
-#
-## Zeichne ein gleichseitiges Dreieck linksherum startend mit einer Seite in Blickrichtung der Turtle
-#def gleichseitiges_dreieck():
-#    repeat 3:
-#        forward(100)
-#        left(120)
-#        
-#def fuenfseitiger_stern():
-#    repeat 5:
-#        gleichseitiges_dreieck()
-#        forward(100)
-#        right(360/5)
-#
-#makeTurtle()
-#hideTurtle()
-#fuenfseitiger_stern()
+
+from gturtle import *
+
+# Zeichne ein gleichseitiges Dreieck linksherum startend mit einer Seite in Blickrichtung der Turtle
+def gleichseitiges_dreieck():
+   repeat 3:
+       forward(100)
+       left(120)
+       
+def fuenfseitiger_stern():
+   repeat 5:
+       gleichseitiges_dreieck()
+       forward(100)
+       right(360/5)
+
+makeTurtle()
+hideTurtle()
+fuenfseitiger_stern()
