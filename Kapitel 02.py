@@ -44,7 +44,7 @@ left(45)
 quadrat100()
 
 
-''' Aufgabe 2.1: Definition und Nutzung Befehl dreieck50 (Bitte lösen)'''
+''' Aufgabe 2.1: Definition und Nutzung Befehl dreieck50 (Bitte im Teams abgeben)'''
 
 
 ''' Konzepte und Begriffe
@@ -79,7 +79,7 @@ repeat 4:
    left(90)
 
 
-''' Aufgabe 2.2: Blumen zeichnen (Bitte lösen)'''
+''' Aufgabe 2.2: Blumen zeichnen (Bitte im Teams abgeben)'''
 
 
 
@@ -109,13 +109,14 @@ repeat 4:
 - Variante 2: in separate Datei auslagern. Achtung: Dateien in demselben Ordner speichern
 '''
 
-''' Aufgabe 2.4: Gleichseitiges Dreieck (Bitte lösen)'''
+''' Aufgabe 2.4 a): Gleichseitiges Dreieck (Bitte im Teams abgeben)'''
+''' Aufgabe 2.4 b): Gleichseitiges Dreieck (Bitte im Teams abgeben)'''
 
+''' Aufgabe 2.5 a): Quadrate (Bitte im Teams abgeben)'''
+''' Aufgabe 2.5 b): Quadrate (Bitte im Teams abgeben)'''
+''' Aufgabe 2.5 c): Quadrate (Bitte im Teams abgeben)'''
 
-''' Aufgabe 2.5: Quadrate (Freiwillige Aufgabe)'''
-
-
-''' Aufgabe 2.7: Offene Quadrate (Freiwillige Aufgabe)'''
+''' Aufgabe 2.7: Offene Quadrate (Bitte im Teams abgeben)'''
 
 
 ''' Was ich gelernt habe 
@@ -181,9 +182,9 @@ Viermal nacheinander werden ein Viertelkreis und eine gerade Linie der Länge 75
 '''
 
 
-''' Aufgabe 2.8 A: Halbkreise horizontal nebeneinander (Bitte lösen) '''
+''' Aufgabe 2.8 a): Halbkreise horizontal nebeneinander (Bitte im Teams abgeben) '''
 
-''' Aufgabe 2.8 B: Quadrate als Pfeilspitze (Bitte lösen) '''
+''' Aufgabe 2.8 b): Quadrate als Pfeilspitze (Bitte im Teams abgeben) '''
 
 '''
 ===============================================================================
@@ -220,7 +221,7 @@ makeTurtle()
 stern()
 
 
-''' Aufgabe 2.9: 2x2-Fenster (Bitte lösen) '''
+''' Aufgabe 2.9: 2x2-Fenster (Bitte im Teams abgeben) '''
 
 
 '''
@@ -262,7 +263,7 @@ showTurtle()
 - Wie können wir die die Animation schneller machen?
 '''
 
-''' Aufgabe 2.12: nach oben laufendes rotes Quadrat (Bitte lösen) '''
+''' Aufgabe 2.12: nach oben laufendes rotes Quadrat (Bitte im Teams abgeben) '''
 
 ''' neue Konzepte und Begriffe
 - Figur löschen: Überschreiben mit weisser Farbe
@@ -270,7 +271,7 @@ showTurtle()
 - delay(<Zeit>): Warten in Millisekunden
 '''
 
-''' Aufgabe 2.13: Sekundenzeiger '''
+''' Aufgabe 2.13: Sekundenzeiger (Bitte im Teams abgeben) '''
 # Musterlösung
 
 from gturtle import * 
@@ -294,7 +295,7 @@ showTurtle()
 
 ''' Aufgabe 2.15: Digitaler Zähler (Bitte in 3er/4er-Gruppen lösen) '''
 
-''' Aufgabe 2.18: Tieranimation (Bitte lösen) '''
+''' Aufgabe 2.18: Tieranimation (Bitte im Teams abgeben) '''
 
 ''' Was ich gelernt habe 
 - Unterschiedliche Befehle können als Bausteine und anschliessend zusammengesetzt werden, um komplexere Programme zu schreiben
