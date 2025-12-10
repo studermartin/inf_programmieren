@@ -109,7 +109,7 @@ Ansatz:
 1. Zeichnen: Rechtwinkliges gleichschenkliges Dreieck mit Winkeln und Katheten und Hypothenuse zeichnen.
 2. Erläutern: Wir können die Werte von Parametern nutzen, um weitere Werte zu berechnen.
 - Wir möchten einen Befehl rw_dreieck schreiben, bei der die Länge der Katheten als Parameter mitgegeben werden kann.
-- Wir berechnen die Länge der Hypothenuse im Befehl.
+- Wir berechnen die Länge der Hypotenuse im Befehl.
 3. Aufruf festlegen
 4. Implementation
 '''
