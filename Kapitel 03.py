@@ -14,7 +14,7 @@ Neu:
 - Das Konzept der Variable ermöglicht dem Computer Daten einzulesen, auszugeben und zu speichern.
 
 Lernziele:
-- In diesem Kapitel lernst du mit Variablen umzugehen, ihnen Werte zuzuweisen und mit ihner Werten zu rechnen. 
+- In diesem Kapitel lernst du mit Variablen umzugehen, ihnen Werte zuzuweisen und mit ihren Werten zu rechnen. 
 '''
 
 '''
