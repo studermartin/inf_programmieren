@@ -211,6 +211,7 @@ Kapitel 3.2 Wie der Computer mit Variablen arbeitet
 ===============================================================================
 '''
 
+''' Beispiel 3.6: Vieleck '''
 #from gturtle import *
 #
 #def vieleck(anzahl_ecken, seite):
@@ -246,7 +247,7 @@ Vergleiche mit der Durchführung im Debugger!
 - print-Befehle einführen
 '''
 
-''' Aufgabe 3.9: Tabelle für Rechtecke zeichnen (Bitte lösen) '''
+''' Aufgabe 3.9: Tabelle für Rechtecke zeichnen (Bitte im Teams abgeben) '''
 
 
 ''' Was wir gelernt haben:
@@ -333,14 +334,13 @@ Die Figur besteht ist wie folgt aufgebaut:
 #mosaik(100, "blue", "red")
 
 
-''' Aufgabe 3.12: Reihe (Bitte lösen) '''
+''' Aufgabe 3.12: Reihe (Bitte im Teams abgeben) '''
 
 
-''' Aufgabe 3.13: Gitter (Bitte lösen) '''
+''' Aufgabe 3.13: Gitter (Bitte im Teams abgeben) '''
 
 
-''' Aufgabe 3.15: Schach (Bitte lösen) '''
-
+''' Aufgabe 3.15: Schach (Bitte im Teams abgeben) '''
 
 ''' Was wir gelernt haben:
 - Im Körper eines Befehls können Sie die Variablenwerte des Befehls (d.h. des Hauptprogramms) an Variablen anderer Befehle (d. h. der Unterprogramme) weitergeben. 
@@ -413,7 +413,7 @@ Den Wert erhöhen:
 #spirale(10)
 
 
-''' Aufgabe 3.17: Spirale (Bitte lösen) '''
+''' Aufgabe 3.17: Spirale (Bitte im Teams abgeben) '''
 
 
 ''' Neue Konzepte und Begriffe
@@ -426,10 +426,10 @@ Den Wert erhöhen:
 '''
 
 
-''' Aufgabe 3.21: Spirale von aussen nach innen (Bitte lösen) '''
+''' Aufgabe 3.21: Spirale von aussen nach innen (Bitte im Teams abgeben) '''
 
 
-''' Aufgabe 3.22: Sechseeckige Spirale von innen nach aussen (Bitte lösen) '''
+''' Aufgabe 3.23: Sechseeckige Spirale von innen nach aussen (Bitte im Teams abgeben) '''
 
 
 ''' Beispiel 3.10 '''
@@ -471,11 +471,10 @@ Den Wert erhöhen:
 #schreib_quadrate(3)
 
 
-''' Aufgabe 3.29: Quadratzahlen ausgeben (Bitte lösen) '''
+''' Aufgabe 3.29: Quadratzahlen ausgeben (Bitte im Teams abgeben) '''
 
 
-''' Aufgabe 3.30: Reiskörner auf Schachbrett (Bitte lösen) '''
-
+''' Aufgabe 3.30: Reiskörner auf Schachbrett (Bitte im Teams abgeben) '''
 
 ''' Was wir gelernt haben:
 - Variablen sind Speicherplätze mit einem Namen. 
@@ -523,7 +522,7 @@ Kapitel 3.5 Zeittabellen für die Übertragung von Variablenwerten
 
 
 
-''' Aufgabe 3.31: Dreiecksmuster (Bitte lösen) '''
+''' Aufgabe 3.31: Dreiecksmuster (Bitte im Teams abgeben) '''
 
 
 
@@ -546,6 +545,11 @@ Wie entwickelen sich die Werte von seite und differenz bei jedem Schleifendurchg
 #makeTurtle()
 #hideTurtle()
 #spirale(20, 10, 1)
+
+
+''' Aufgabe 3.33: grösser werdende Quadrate (Bitte im Teams abgeben, optional) '''
+
+''' Aufgabe 3.34: grösser werdende Zahlen (Bitte im Teams abgeben, optional) '''
 
 
 ''' Was wir gelernt haben:
@@ -633,11 +637,10 @@ summe ausgeben
 - Welchen der zwei Befehle rechne() oder addition() würdest du bevorzugen?
 '''
 
-''' Aufgabe 3.37: Summe der ersten 10 Kubikzahlen (Bitte lösen) '''
+''' Aufgabe 3.37: Summe der ersten 10 Kubikzahlen (Bitte im Teams abgeben) '''
 
 
-''' Aufgabe 3.38: Summe der Reiskörner auf dem Schachbrett (Bitte lösen)'''
-
+''' Aufgabe 3.38: Summe der Reiskörner auf dem Schachbrett (Bitte lösen) '''
 
 
 
@@ -693,11 +696,11 @@ Ein Text wird zu einem Text.
 
 
 
-''' Aufgabe 3.40: 10x10 Wörter (Bitte lösen) '''
+''' Aufgabe 3.40: 10x10 Wörter (Bitte im Teams abgeben) '''
 
 
 
-''' Aufgabe 3.42: Quadrat auf Kreisbahn (Bitte lösen) '''
+''' Aufgabe 3.42: Quadrat auf Kreisbahn (Bitte im Teams abgeben) '''
 
 # Mögliche Lösung
 #from gturtle import *
@@ -737,10 +740,10 @@ Selbsttest
 ===============================================================================
 '''
 
-''' Kapitel 3-Selbsttest-Konzepte und Begriffe '''
+''' Kapitel 3-Selbsttest-Konzepte und Begriffe (Bitte im Teams lösen)'''
 
-''' Kapitel 3-Selbsttest-Aufgabe 3.1 (Turm aus Quadraten) '''
+''' Kapitel 3-Selbsttest-Aufgabe 3.1 (Turm aus Quadraten) (Bitte im Teams abgeben) '''
 
-''' Kapitel 3-Selbsttest-Aufgabe 3.3 (Zahlensumme) '''
+''' Kapitel 3-Selbsttest-Aufgabe 3.3 (Zahlensumme) (Bitte im Teams abgeben) '''
 
-''' Kapitel 3-Selbsttest-Aufgabe 3.4 (Ueberraschung) '''
+''' Kapitel 3-Selbsttest-Aufgabe 3.4 (Ueberraschung) (Bitte im Teams abgeben) '''
