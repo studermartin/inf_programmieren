@@ -288,7 +288,7 @@ Desktop-Aufteilung
 (Durch das Andocken kann der - nicht benötigte Debuggerteil - unter OneNote verschoben werden.)
 '''
 
-''' Beispiel 3.8: Vieleck '''
+''' Beispiel 3.8: Mosaik '''
 
 ''' Modularer Aufbau:
 Die Figur besteht ist wie folgt aufgebaut:

@@ -89,7 +89,7 @@ EBNF würde in etwa wie folgt aussehen:
 		|  (ArithmetischerAusdruck)
 
 Das bringt nicht so viel Zusatz an Verständlichkeit. 
-ie Prüfung, ob ein Ausdruck korrekt ist, kann induktiv erfolgen. 
+Die Prüfung, ob ein Ausdruck korrekt ist, kann induktiv erfolgen. 
 Beispiel: Ist 1+2+3 ein gültiger arithmetischer Ausdruck?
 Gültige arithmetische Ausdrucke sind:
   1: A1
@@ -317,6 +317,9 @@ Eine Bedingung lässt sich oft unterschiedlich ausdrücken:
   a < 10
   10 > a
 
+Wir sprechen davon dass diese Ausdrücke äquivalent sind.
+Äquivalent bedeutet, dass die Ausdrücke bei gleichen Variablenwerten immer das gleiche Resultat liefern.
+  
 '''
 
 ''' Neue Konzepte und Begriffe
@@ -325,6 +328,10 @@ das wir hier nicht detailliert vorstellen.
 Für Zahlen mit vielen Nachkommastellen arbeitet der Computer mit gerundeten Werten.
 Dadurch erhält man als Resultat oft nur Näherungswerte. 
 Dies kann jedoch dazu führen, dass man beim Vergleich von Zahlen falsche logische Werte erhält
+
+Ausdrücke lassen sich oft unterschiedlich schreiben.
+Falls zwei Ausdrücke bei gleichen Variablenwerten immer das gleiche Resultat liefern,
+sind diese Ausdrücke äquivalent.
 '''
 
 #a = 0.3
