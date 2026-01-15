@@ -12,9 +12,9 @@ Solche Berechnungen nennt man Ausdrücke.
 
 Lernziele:
 - Kennen von drei Typen von Ausdrücken:
-  - arithmetische Ausdrücke, zum Beispiel 3*(x+9)
-  - logische Ausdrücke, zum Beispiel 3<x and x<9
-  - Text-Ausdrücken, z. B. "Hallo" + " Welt"
+  - arithmetische Ausdrücke, zum Beispiel print(3*(x+9))
+  - logische Ausdrücke, zum Beispiel print(3<x and x<9)
+  - Text-Ausdrücken, z. B. print("Hallo" + " Welt")
 - Kennen der Aufbauregeln von Ausdrücken, um zum Beispiel die Gültigkeit von Ausdrücken beurteilen zu können.
 - Aufbau und Auswertung von Ausdrücken mit Hilfe von Baumstrukturen erläutern können.
 '''
@@ -42,6 +42,7 @@ Wenn man einen arithmetischen Ausdruck auswertet, dann erhält man eine Zahl.
 '''
 
 ''' Beispiel 6.1: Informationen zu Kreisen '''
+''' Rechts die entsprechende Formel in Mathematik-Schreibweise hinschreiben '''
 #from math import pi
 #
 #def beschreibe_kreis(radius):
@@ -51,6 +52,14 @@ Wenn man einen arithmetischen Ausdruck auswertet, dann erhält man eine Zahl.
 #
 #beschreibe_kreis(20)
 
+''' Was ist in der Mathematik eine korrekter Term?
+  x + 3 * 7 - 5
+  5 + * 3
+  x x 7
+  3 -
+  - 3
+  --3
+'''
 
 ''' Regeln für den Aufbau von arithmetischen Ausdrücken
 A1: Eine Zahl ist ein arithmetischer Ausdruck
