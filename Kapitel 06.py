@@ -100,6 +100,16 @@ Gültige arithmetische Ausdrucke sind:
 '''
 
 ''' Baumdarstellung für die Ableitung
+	Beispiel: 1+2+3
+	          1+2+3
+	          / A4 \\
+			1+2    3
+		   / A4 \\  A1
+		  1     2
+		  A1    A1
+'''
+
+''' Baumdarstellung für die Ableitung
 Beispiel: (2+x)
 
           (2+x)
