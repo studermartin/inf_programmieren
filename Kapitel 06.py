@@ -283,7 +283,7 @@ T5: Ein Text-Ausdruck in Klammern ist ein Text-Ausdruck.
 #print("True" or "False")
 
 
-''' Aufgabe 6.8: gültige Text-Ausdrücke (Bitte lösen) '''
+''' Aufgabe 6.8: gültige Text-Ausdrücke (Bitte im Teams lösen) '''
 
 
 ''' Neue Konzepte und Begriffe
@@ -297,7 +297,7 @@ wie die der arithmetischen Operatoren für die Addition und Multiplikation.
 Je nach dem ob die Operanden Texte oder Zahlen sind, verhalten sich die Operatoren anders.
 '''
 
-''' Aufgabe 6.10: Gültige Ausdrücke mit + und * (Bitte lösen) '''
+''' Aufgabe 6.10: Gültige Ausdrücke mit + und * (BitteBitte im Teams lösen) '''
 
 
 
@@ -362,7 +362,7 @@ sind diese Ausdrücke äquivalent.
 #print(a == b)
 
 
-''' Aufgabe 6.11: äquivalente Ausdrücke mit relationalen Operatoren (Bitte lösen) '''
+''' Aufgabe 6.11: äquivalente Ausdrücke mit relationalen Operatoren (Bitte im Teams lösen) '''
 
 
 ''' Mit den relationalen Operatoren kann man auch Texte oder logische Ausdrücke vergleichen
@@ -373,7 +373,8 @@ R3: Ein logischer Ausdruck, gefolgt von einem der relationalen Vergleichs-Operat
 '''
 
 
-''' Aufgabe 6.12: äquivalente Ausdrücke (Bitte lösen) '''
+''' Aufgabe 6.12: äquivalentelogische Ausdrücke (Bitte im Teams lösen) '''
+
 
 ''' Neue Konzepte und Begriffe
 Die relationalen Operatoren (z. B. <, <=, >, >=, ==, !=) vergleichen zwei Werte und produzieren entweder den Wert True oder False.
@@ -383,7 +384,7 @@ Die zwei Werte im Vergleich müssen vom gleichen Typ sein (beides Zahlen, beides
 
 
 
-''' Aufgabe 6.13: Monte-Carlo-Methode (Bitte lösen) '''
+''' Aufgabe 6.13: Monte-Carlo-Methode (Bitte im Teams abgeben) '''
 
 
 '''
