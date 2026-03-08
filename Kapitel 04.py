@@ -1,3 +1,6 @@
+
+# LP #
+
 '''
 ===============================================================================
 Kapitel 4 Verzweigung und bedingte Schleifen
@@ -23,6 +26,8 @@ Lernziele:
 Unterkapitel 4.1 Verzweigungen mit if-Anweisungen
 ===============================================================================
 ''' 
+
+# LP #
 
 
 ''' Beispiel 4.1: Lisa '''
@@ -101,12 +106,15 @@ Python 2 Language Reference
 - Boolean operations: https://docs.python.org/2/reference/expressions.html#booleans
 '''
 
+# SuS #
 
-''' Aufgabe 4.3: Quadrat (Bitte lösen)'''
+''' Aufgabe 4.3: Quadrat (Bitte im Teams abgeben)'''
 
 
 ''' Aufgabe 4.4: if-Bedingung ohne Variable (lassen wir weg) '''
 
+
+# LP #
 
 ''' Beispiel 4.3: Lisa und Unbekannte '''
 
@@ -142,7 +150,9 @@ Python 2 Language Reference
 '''
 
 
-''' Aufgabe 4.7: Gleiche Wirkung (Bitte lösen) '''
+# SuS #
+
+''' Aufgabe 4.7: Gleiche Wirkung (Bitte im Teams abgeben) '''
 
 ''' Erläuterung: 
 - if, if-else und if-elif-else Befehle lassen sich verschachteln wie das zweite Beispiel zeigt.
@@ -152,6 +162,7 @@ Python 2 Language Reference
 ''' Aufgabe 4.8: Sicheres Vieleck (Bitte lösen) '''
 
 
+# LP #
 
 ''' Beispiel 4.4 Mehrere if vs. if-elsif-... '''
 
@@ -214,7 +225,12 @@ Python 2 Language Reference
 
 ''' Aufgabe 4.9: (Weglassen) '''
 
+# SuS #
 
+''' Aufgabe 4.10: Flussdagramm (Bitte im Teams abgeben) '''
+
+
+# Lp #
 
 ''' Neue Konzepte und Begriffe
 - Mit der strukturierten Anweisung if-elif-else kann man ein Programm in beliebig viele Wege verzweigen.
@@ -226,17 +242,22 @@ Python 2 Language Reference
   Für die Verständlichkeit ist es von Vorteil, in if-elif-else nur Bedingungen zu stellen, die sich gegenseitig ausschliessen.
 '''
 
-''' Aufgabe 4.11: Bilder abhängig von Eingabe zeichnen (Bitte lösen) '''
+
+# SuS #
+
+''' Aufgabe 4.11: Bilder abhängig von Eingabe zeichnen (Bitte im Teams abgeben) '''
 
 
-''' Aufgabe 4.14: Quiz (Bitte lösen) '''
+''' Aufgabe 4.14: Quiz (Bitte im Teams abgeben) '''
 
 
-''' Aufgabe 4.13: Lineare Gleichungen (Bitte lösen) '''
+''' Aufgabe 4.13: Lineare Gleichungen (Bitte im Teams abgeben) '''
 
 
 ''' Aufgabe 4.12: Lösung von quadratischen Gleichungen (Weglassen) '''
 
+
+# Lp #
 
 '''
 ===============================================================================
@@ -278,9 +299,15 @@ Wahrheitstabelle:
 
 ''' Aufgabe 4.15: (Diskussion) '''
 
+
+# SuS #
+
 ''' Aufgabe 4.16: (Bitte im Teams lösen) '''
 
 ''' Aufgabe 4.17: (Bitte im Teams lösen) '''
+
+
+# Lp #
 
 ''' Aufgabe 4.18: (Diskussion) '''
 
@@ -328,9 +355,12 @@ Wahrheitstabelle:
 '''
 
 
+# SuS #
+
 ''' Aufgabe 4.19: Nichtteiler von 24 (Bitte lösen) '''
 
 
+# Lp #
 
 '''
 -------------------------------------------------------------------------------
@@ -370,6 +400,8 @@ Für welche Situationen gilt:
 ''' (siehe Buch) '''
 
 
+# SuS #
+
 ''' Aufgabe 4.20: (Bitte lösen, keine Abgabe im Teams) '''
 
 
@@ -382,6 +414,10 @@ Für welche Situationen gilt:
 Thema: Bedingungen verknüpfen
 -------------------------------------------------------------------------------
 '''
+
+
+# Lp #
+
 
 ''' Beispiel 4.6: Bedingungen vernüpfen '''
 
@@ -428,13 +464,16 @@ Thema: Bedingungen verknüpfen
 #rechteck(10, 5)
 
 
-''' Aufgabe 4.24: Teiler 24 und 54 (Bitte lösen, bitte im Teams abgeben) '''
+# SuS #
 
 
-''' Aufgabe 4.25: Teiler von 7 aber nicht 3 (Bitte lösen, bitte im Teams abgeben) '''
+''' Aufgabe 4.24: Teiler 24 und 54 (Bitte im Teams abgeben) '''
 
 
-''' Aufgabe 4.27: Begrüssung (Bitte lösen, bitte im Teams abgeben) '''
+''' Aufgabe 4.25: Teiler von 7 aber nicht 3 (Bitte im Teams abgeben) '''
+
+
+''' Aufgabe 4.27: Begrüssung (Bitte im Teams abgeben) '''
 
 
 '''
@@ -442,6 +481,9 @@ Thema: Bedingungen verknüpfen
 Unterkapitel 4.3 Schleifen abbrechen
 ===============================================================================
 ''' 
+
+
+# Lp #
 
 ''' 
 Mit repeat: ohne Angabe einer Anzahl kann eine unendliche Wiederholung realisiert werden.
@@ -485,9 +527,12 @@ sobald eine gegebene Aufgabe erledigt ist.
 ''' Aufgabe 4.30: (Diskussion) '''
 
 
+# SuS #
 
-''' Aufgabe 4.31: (Bitte lösen, Abgabe im Teams) '''
+''' Aufgabe 4.31: (Bitte im Teams abgeben) '''
 
+
+# Lp #
 
 ''' Umsetzung der repeat-Anweisung mit Zähler
 '''
@@ -526,8 +571,12 @@ sobald eine gegebene Aufgabe erledigt ist.
 #   goto 5
 
 
-''' Aufgabe 4.32: (Bitte lösen, Abgabe im Teams) '''
+# SuS #
 
+''' Aufgabe 4.32: (Bitte im Teams) '''
+
+
+# Lp #
 
 '''
 Wir möchten, dass der Computer für uns den kleinsten echten Teiler einer Zahl grösser als 1 sucht. 
@@ -560,14 +609,15 @@ Flussdiagramm (wie im Buch 2-spaltig zeichnen)
 '''
 
 
+# SuS #
 
-''' Aufgabe 4.33: (Bitte lösen, Abgabe im Teams) '''
-
-
-
-''' Aufgabe 4.34: (Bitte lösen, Abgabe im Teams) '''
+''' Aufgabe 4.33: (Bitte im Teams abgeben) '''
 
 
+''' Aufgabe 4.34: (Bitte im Teams abgeben) '''
+
+
+# Lp #
 
 ''' Aufgabe 4.35: (Diskussion) '''
 
@@ -578,6 +628,8 @@ Flussdiagramm (wie im Buch 2-spaltig zeichnen)
 Unterkapitel 4.4 While-Schleifen
 ===============================================================================
 ''' 
+
+# Lp #
 
 '''
 Einführung:
@@ -604,37 +656,29 @@ Einführung:
 ''' Flussdiagramm zeichnen '''
 
 
-''' Aufgabe 4.36: (Bitte lösen, Abgabe im Teams) '''
+# SuS #
 
+''' Aufgabe 4.36: (Bitte im Teams abgeben) '''
 
-''' Aufgabe 4.37: (Bitte lösen, Quiz im Teams) '''
+''' Aufgabe 4.37: (Bitte im Teams abgeben) '''
 
+''' Aufgabe 4.38: (Bitte im Teams abgeben) '''
 
-''' Aufgabe 4.38: (Bitte lösen, Abgabe im Teams) '''
+''' Aufgabe 4.39: (Bitte im Teams abgeben) '''
 
+''' Aufgabe 4.40: (Bitte im Teams abgeben) '''
 
-''' Aufgabe 4.39: (Bitte lösen, Abgabe im Teams) '''
+''' Aufgabe 4.41: (Bitte im Teams abgeben, Weglassen) '''
 
+''' Aufgabe 4.42: (Bitte im Teams abgeben) '''
 
-''' Aufgabe 4.40: (Bitte lösen, Abgabe im Teams) '''
+''' Aufgabe 4.43: (Bitte im Teams abgeben, Weglassen) '''
 
+''' Aufgabe 4.44: (Bitte im Teams abgeben) '''
 
-''' Aufgabe 4.41: (Bitte lösen, Abgabe im Teams, Weglassen) '''
+''' Aufgabe 4.45: (Bitte im Teams abgeben, Weglassen) '''
 
-
-''' Aufgabe 4.42: (Bitte lösen, Abgabe im Teams) '''
-
-
-''' Aufgabe 4.43: (Bitte lösen, Abgabe im Teams, Weglassen) '''
-
-
-''' Aufgabe 4.44: (Bitte lösen, Abgabe im Teams) '''
-
-
-''' Aufgabe 4.45: (Bitte lösen, Abgabe im Teams, Weglassen) '''
-
-
-''' Aufgabe 4.46: (Bitte lösen, Abgabe im Teams) '''
+''' Aufgabe 4.46: (Bitte im Teams abgeben) '''
 
 
 '''
@@ -642,6 +686,9 @@ Einführung:
 Selbsttest
 ===============================================================================
 '''
+
+# SuS #
+
 
 ''' Kapitel 4-Selbsttest-Konzepte und Begriffe '''
 
