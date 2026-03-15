@@ -227,7 +227,7 @@ Python 2 Language Reference
 
 # SuS #
 
-''' Aufgabe 4.10: Flussdagramm (Bitte im Teams abgeben) '''
+''' Aufgabe 4.10: Flussdiagramm (Bitte im Teams abgeben) '''
 
 
 # Lp #
