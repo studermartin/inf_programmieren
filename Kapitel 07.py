@@ -87,7 +87,16 @@ Funktionen mit mehreren Parametern
 # flaeche_rechteck(3, 20)
 
 
-''' Aufgabe 7.2: Umfang eines Rechtecks (bitte lösen) '''
+''' Aufgabe 7.2: Umfang eines Rechtecks (bitte im Teams abgeben) '''
+
+''' Aufgabe 7.2a: Betragsfunktion (bitte im Teams abgeben) '''
+
+''' Aufgabe 7.2b: Gerade Zahl? (bitte im Teams abgeben) '''
+
+''' Aufgabe 7.2c: Ist Primzahl? (bitte im Teams abgeben) '''
+
+''' Aufgabe 7.2d: Grösster gemeinsamer Teiler (bitte im Teams abgeben) '''
+
 
 
 ''' Neue Konzepte und Begriffe
@@ -103,19 +112,22 @@ liefert der Befehl return im Funktionskörper den Wert der Funktion zurück.
 '''
 
 
-''' Aufgabe 7.3: Index von (bitte lösen) '''
+''' Aufgabe 7.3: Index von (Bitte im Teams abgeben) '''
+
 ''' Hinweis:
 - Alle Elemente einer Liste mit einer repeat-Schleife durchgehen und falls gefunden, mit return den Index zurückgeben.
 '''
 
 
-''' Aufgabe 7.4: Ist sortiert (bitte lösen) '''
+''' Aufgabe 7.4: Ist sortiert (bitte im Teams abgeben) '''
+
 ''' Hinweis: 
 - Eine Liste ist sortiert, wenn alle nebeneinander stehenden Werte sortiert sind.
 '''
 
 
-''' Aufgabe 7.5: Binäre Suche (bitte lösen) '''
+''' Aufgabe 7.5: Binäre Suche (bitte im Teams abgeben) '''
+
 ''' Hinweis: 
 - Der Algorithmus für die binäre Suche kann einfach aus Beispiel 5.4 übernommen werden. Man muss die Algorithus "nur" in eine Funktion verpacken.
 '''
