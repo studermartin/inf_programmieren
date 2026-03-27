@@ -3,19 +3,25 @@
 # Kapitel 7 Funktionen definieren und aufrufen
 #===============================================================================
 
-
 '''
+Funktionen in der Mathematik:
+
 Aus der Mathematik kennen wir Funktionen.
 Beispiel:
     f(x)=2x+3
 Der Name der Funktion ist f.
-Wir haben bereits Funktionen geschrieben:
+
+In der Mathematik können wir schreiben:
+	y = f(4) * 5
+
+Funktionen in der Informatik:
+
+Wir haben bereits Befehle geschrieben:
   def f(x):
     print(2*x+3)
-Wir können zwar das Resultat ausgeben, aber nicht direkt mit dem Result weiterrechnen.
+Wir können zwar das Resultat ausgeben, aber nicht direkt mit dem Resultat weiterrechnen.
+
 Das wollen wir hier tun.
-
-
 
 Lernziele:
 - Funktionen definieren und aufrufen.
@@ -40,10 +46,15 @@ Definition einer Funktion
 #    return 2*x+3
 
 # y = f(4) * 5
+# print(y)
 
 ''' Neue Regeln für den Aufbau von arithmetischen Ausdrücken
-A6: Ein Funktionsaufruf f (Ausdruck) ist ein Ausdruck, dessen Wert der Rückgabewert der Funktion ist.
+Nur für arithmetische Funktionen:
+A6: Der Name einer Funktion, die als Resultat einen arithmetischen Ausdruck liefert, gefolgt von einem arithmetischen Ausdruck in Klammern ist wiederum ein arithmetischer Ausdruck.
 
+Wir stossen hier an die Grenzen unseres bisherigen Verständnisses dieser Aufbauregeln.
+Wir müssten diese Regeln allgemeiner, und nicht nur für arithmetische Ausdrücke formulieren.
+R6: (Funktionsaufruf) Der der Name einer Funktion gefolgt von einem Ausdruck in Klammern ist ein Ausdruck.
 
 Funktionen sind wie normale Befehle.
 Unterschied: sie geben mit Hilfe des Schlüsselwortes return einen Wert zurück.
@@ -96,7 +107,6 @@ Funktionen mit mehreren Parametern
 ''' Aufgabe 7.2c: Ist Primzahl? (bitte im Teams abgeben) '''
 
 ''' Aufgabe 7.2d: Grösster gemeinsamer Teiler (bitte im Teams abgeben) '''
-
 
 
 ''' Neue Konzepte und Begriffe
