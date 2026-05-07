@@ -220,9 +220,6 @@ Python 2 Language Reference
 ''' Visualisierung mittels Flussdiagrammen '''
 
 
-''' Aufgabe 4.9: (Diskussion) '''
-
-
 ''' Aufgabe 4.9: (Weglassen) '''
 
 # SuS #

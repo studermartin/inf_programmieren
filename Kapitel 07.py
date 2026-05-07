@@ -87,7 +87,7 @@ Funktionen mit mehreren Parametern
 # flaeche_rechteck(3, 20)
 
 
-''' Aufgabe 7.2: Umfang eines Rechtecks (bitte lösen) '''
+''' Aufgabe 7.2: Umfang eines Rechtecks (bitte im Teams abgeben) '''
 
 
 ''' Neue Konzepte und Begriffe
@@ -103,21 +103,21 @@ liefert der Befehl return im Funktionskörper den Wert der Funktion zurück.
 '''
 
 
-''' Aufgabe 7.3: Index von (bitte lösen) '''
+''' Aufgabe 7.3: Index von (bitte im Teams abgeben) '''
 ''' Hinweis:
 - Alle Elemente einer Liste mit einer repeat-Schleife durchgehen und falls gefunden, mit return den Index zurückgeben.
 '''
 
 
-''' Aufgabe 7.4: Ist sortiert (bitte lösen) '''
+''' Aufgabe 7.4: Ist sortiert (bitte im Teams abgeben) '''
 ''' Hinweis: 
 - Eine Liste ist sortiert, wenn alle nebeneinander stehenden Werte sortiert sind.
 '''
 
 
-''' Aufgabe 7.5: Binäre Suche (bitte lösen) '''
+''' Aufgabe 7.5: Binäre Suche (bitte im Teams abgeben) '''
 ''' Hinweis: 
-- Der Algorithmus für die binäre Suche kann einfach aus Beispiel 5.4 übernommen werden. Man muss die Algorithus "nur" in eine Funktion verpacken.
+- Der Algorithmus für die binäre Suche kann einfach aus Beispiel 5.4 übernommen werden. Man muss die Algorithmus "nur" in eine Funktion verpacken.
 '''
 
 
@@ -156,7 +156,7 @@ Einfacher Funktionsaufruf
 '''
 
 
-''' Aufgabe 7.6: Verdoppeln zeichnen (bitte lösen) '''
+''' Aufgabe 7.6: Verdoppeln zeichnen (bitte bitte im Teams abgeben) '''
 
 
 '''
@@ -188,7 +188,7 @@ verschiebung      *
               x
 '''
 
-''' Aufgabe 7.7: Ausdrucksbaum f_transformiert (Diskussion) '''
+''' Aufgabe 7.7: Auswertungsbaum f_transformiert (Diskussion) '''
 # print(f_transformiert(10,2,100))
 
 
@@ -254,7 +254,7 @@ rechteck_flaeche(a,b)   100
 ''' Aufgabe 7.8: Funktion ohne Parameter (Bitte lesen) '''
 
 
-''' Aufgabe 7.9: PI-Berechnung (Bitte lösen) '''
+''' Aufgabe 7.9: PI-Berechnung (Bitte im Teams abgeben) '''
 
 
 
@@ -428,7 +428,7 @@ Wir kennen die abc-Formel:
 # print(loese_quadratische_gleichung(2,5,3))
 
 
-''' Aufgabe 7.13 Polynom berechnen (Bitte lösen) '''
+''' Aufgabe 7.13 Polynom berechnen (bitte im Teams abgeben) '''
 
 
 
@@ -445,8 +445,8 @@ Unterkapitel 7.4 Zusammenfassung
 ===============================================================================
 ''' 
 
-''' Konzepte und Befehle (Bitte im Teams lösen) '''
+''' Konzepte und Befehle (bitte im Teams lösen) '''
 
-''' Aufgaben (Bitte im Teams lösen) '''
+''' Aufgaben (bitte im Teams abgeben) '''
 
 
