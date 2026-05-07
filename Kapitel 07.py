@@ -177,8 +177,13 @@ Einfacher Funktionsaufruf
 '''
 
 
+
 ''' Aufgabe 7.6: Verdoppeln zeichnen (bitte bitte im Teams abgeben) '''
 
+''' Hinweis: 
+Aufgabenstellung: zeichne den Baum für verdoppeln(19).
+Alternativ: zeichen den Baum für 2 * wert (wobei da keine Funktion vorkommt) 
+'''
 
 '''
 -------------------------------------------------------------------------------
