@@ -254,6 +254,9 @@ Python 2 Language Reference
 ''' Aufgabe 4.12: Lösung von quadratischen Gleichungen (Weglassen) '''
 
 
+''' Zusatzaufgabe 4.1: Maximum zweier Zahlen (Bitte im Teams abgeben) ''' 
+
+
 # Lp #
 
 '''

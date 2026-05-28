@@ -182,7 +182,7 @@ Einfacher Funktionsaufruf
 
 ''' Hinweis: 
 Aufgabenstellung: zeichne den Baum für verdoppeln(19).
-Alternativ: zeichen den Baum für 2 * wert (wobei da keine Funktion vorkommt) 
+Alternativ: zeichen den Baum für 2 * wert (wobei da keine Funktion vorkommt, also nichts neues) 
 '''
 
 '''
