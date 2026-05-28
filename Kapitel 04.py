@@ -257,6 +257,8 @@ Python 2 Language Reference
 ''' Zusatzaufgabe 4.1: Maximum zweier Zahlen (Bitte im Teams abgeben) ''' 
 
 
+''' Zusatzaufgabe 4.2: Maximum von drei Zahlen (Bitte im Teams abgeben) '''
+
 # Lp #
 
 '''
@@ -298,7 +300,7 @@ Wahrheitstabelle:
 
 
 ''' Aufgabe 4.15: (Diskussion) '''
-
+''' Die Behauptung "x<2" ist nicht die Negation von "x>2". Erkläre, warum das so ist. '''
 
 # SuS #
 
