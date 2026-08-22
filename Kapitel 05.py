@@ -42,6 +42,7 @@ Unterkapitel 5.1 Das Konzept der Listen
 
 
 ''' Beispiel 5.1: Summe aller Wert in einer Liste '''
+
 #daten = [ 4, 2, -6, 17, 5, 12]
 #i = 0
 #summe = 0
@@ -260,6 +261,7 @@ Unterkapitel 5.2 Wie der Computer mit Listen arbeitet
 
 
 ''' Beispiel 5.5: Insert-Operation in Listen '''
+
 #x = [3, 4, 1, -2, 6, 7]
 
 ''' Zahl 5 an Index 1 einfügen:
@@ -300,6 +302,7 @@ Unterkapitel 5.3 Dynamische Datenstrukturen
 '''
 
 ''' Beispiel 5.6: Listen-Methode append '''
+
 #primzahlen = [2, 3]
 #print(primzahlen)
 #primzahlen.append(5)
@@ -314,6 +317,7 @@ Unterkapitel 5.3 Dynamische Datenstrukturen
 ### LP ###
 
 ''' Beispiel 5.7: Listen-Methode pop '''
+
 #primzahlen = [2, 3, 5]
 #print(primzahlen)
 #primzahlen.pop()
@@ -507,6 +511,7 @@ Natürlich kann ich zusätzlich eine Variable für den Index einführen.
 Beispielsweise alle geraden Zahlen in eine Liste, alle ungeraden in eine andere Liste. '''
 
 ''' Beispiel 5.12 '''
+
 #zahlen = [2, 6, 7, 9, 12, 4, 5, 11]
 #gerade = []
 #ungerade = []
@@ -532,6 +537,7 @@ Beispielsweise alle geraden Zahlen in eine Liste, alle ungeraden in eine andere 
 ''' ---- Die Werte einer Liste auf einen Wert reduzieren --- '''
 
 ''' Beispiel 5.13 '''
+
 #liste = [1, 2, 3, 4, 5]
 #summe = 0
 #for zahl in liste:

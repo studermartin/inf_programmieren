@@ -65,6 +65,7 @@ quadrat100()
     
 
 ''' Beispiel 2.2: Befehl quadrat100 nutzen um ein Fenster zu zeichnen '''
+
 from gturtle import *
 
 def quadrat100():       # neuen Befehl mit Namen quadrat100 definieren
@@ -139,6 +140,7 @@ Wie bereits bekannt, darf man repeat auch im Körper einer anderen Schleife verw
 '''
 
 ''' Beispiel 2.3: Quadrat mit runden Ecken '''
+
 from gturtle import * 
 
 makeTurtle()
