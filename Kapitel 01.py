@@ -190,6 +190,7 @@ a) 11 Ecken, 50 Pixel Seitenlänge
 
 
 ''' Aufgabe 1.14: Was macht dieses Programm (Bitte lösen): keine Abgabe '''
+
 #from gturtle import *
 #
 #makeTurtle()

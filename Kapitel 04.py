@@ -377,7 +377,7 @@ Aussage 2: Es regnet.
 
 Situationen (Zeichne):
 - Wolken, aber kein Regen.
-- Wolken, mit Regeln
+- Wolken, mit Regen
 - Sonne, ohne Regen
 - Sonne mit Regen
 
