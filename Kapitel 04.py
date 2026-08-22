@@ -340,6 +340,7 @@ Wahrheitstabelle:
 #test(2)
 
 ''' Beispiel 4.5: not '''
+
 #x = 1
 #repeat 30:
 #    if not x % 7 == 0:
@@ -495,6 +496,7 @@ sobald eine gegebene Aufgabe erledigt ist.
 
 
 ''' Beispiel 4.7: Spirale mit break '''
+
 #from gturtle import *
 #
 #def spirale(seite, add, max_seite):
@@ -591,6 +593,7 @@ Ist dies kein echter Teiler, so ist der kleinste gefundene Teiler die Zahl selbs
 '''
 
 ''' Beispiel 4.8: kleinster echter Teiler '''
+
 #def kleinster_teiler(zahl):
 #    teiler = 2
 #    repeat zahl - 1:

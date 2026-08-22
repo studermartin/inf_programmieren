@@ -332,11 +332,11 @@ Unterkapitel 1.4 Programme, die mit Texten arbeiten
 
 
 ''' Beispiel 1.12: Ausgaben [Fortsetzung] (binary operator * performing a sequence repetition; binary operator + performing a concatenation'''
+
 #print("X     X")
 #print(" X   X ")
 #print("  X X  ")
 #print("   X   ")
-
 
 #print("X"   + " " * 5 + "X")
 #print(" X"  + " " * 3 + "X")
@@ -370,6 +370,7 @@ Programme, die rechnen
 
 
 ''' Beispiel 1.14: Berechne (163*3)-(77*4) '''
+
 #print("14 * (19-8) = ")
 #print(14 * (19-8))
 
