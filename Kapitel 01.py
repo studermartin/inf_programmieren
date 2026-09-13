@@ -240,10 +240,6 @@ Unterkapitel 1.3 Kreise zeichnen und Schleifen in Schleifen legen
 #right(60)
 
 
-
-''' Aufgabe 1.18: Blume (Bitte in Teams abgeben)'''
-
-
 ### SuS ###
 
 ''' Aufgabe 1.17: Blätter aus Viertel- und aus Fünftelkreisen (Bitte im Teams abgeben) '''
@@ -251,6 +247,7 @@ Unterkapitel 1.3 Kreise zeichnen und Schleifen in Schleifen legen
 
 ### Lp ###
 
+''' Beispiel 1.10: Blüte '''
 
 #from gturtle import *
 #
@@ -268,16 +265,12 @@ Unterkapitel 1.3 Kreise zeichnen und Schleifen in Schleifen legen
 #    right(360 / 4)    
 
 
-
-''' Aufgabe 1.19 (Diskussion '''
-
-
 ### SuS ###
-
-
 
 ''' Aufgabe 1.18: Blume (Bitte in Teams abgeben)'''
 
+
+''' Aufgabe 1.19: Figur (Bitte im Teams abgeben) '''
 
 
 '''
