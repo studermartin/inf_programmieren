@@ -359,10 +359,13 @@ Programme, die rechnen
 
 
 ''' Aufgabe 1.22: Binäre mathematische Operatoren (Diskussion)'''
+print(7 / 4)
+print(7 // 4)
+print("7 / 4")
+print(7 % 4)
 
 
-
-''' Beispiel 1.14: Berechne (163*3)-(77*4) '''
+''' Beispiel 1.14: Rechnung ausgeben '''
 
 #print("14 * (19-8) = ")
 #print(14 * (19-8))
@@ -397,9 +400,7 @@ Details:
 ''' Aufgabe 1.23: Ausdruck 4*4*4*4+1 berechnen und ausgeben (Bitte im Teams abgeben)'''
 
 
-
 ''' Aufgabe 1.25: Rechteck mit Flächeninhalt 720 und erster Seite 48 Pixel (Bitte im Teams abgeben) '''
-
 
 
 ''' Aufgabe 1.26: Haus (Bitte im Teams abgeben) '''
